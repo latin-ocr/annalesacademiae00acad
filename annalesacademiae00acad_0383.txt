@@ -1,0 +1,38 @@
+(51)
+
+P punctum intersectionis rectarum x, et xa: tangens ex P ad C ducta,
+erit aequalis tangentibus ex P ad C' et C'l ductis; ergo hae ultimae sunt
+inter se aequales, adeoque punctum P in axi radicasti circulorum C' et
+C'', jacebit.
+
+Punctum istud P vocatur centrum radicale trium circulorum C, C' et
+C'', et evidens est proprietates quibus gaudet axis radicalis duorum eircu-
+lorum, respectu circuli duos circulos tangentis, esse communes centro
+radicali P, respectu circuli tres circulos C, C' et C'' tangentis, id est,
+istud punctum P esse in circulo tangenti punctum homologum inter—
+sectionum polarium similitudinis vel directae vel inversae, in tribus
+circulis C, C' et C''. Aliunde, si axes radicales et polares similitudinis,
+sint rectae homologae, necessario istarum rectarum puncta intersectio-
+num, erunt puncta homologa.
+
+PROBLEMA.
+
+Ad tres circulos in plano datos, circulum tangentem describere.
+
+Istud problema octo solutiones admittit: nam, 1⁰ possunt tres *circuli
+C, C' C'' (fig. 48) circulo tangenti vel exteriores, vel interiores esse,
+2⁰ possunt duo circuli C et C'', circulo tangenti exteriores, alter autem
+C' eodem circulo interior esse. 30 Possunt duo circuli circulo tangenti
+interiores, tertius autem exterior esse. Duo ultimi casus, tres requirunt
+solutiones, annotando unumquemque ex circulis C, C' et C'', sua vice,
+circulo tangenti vel interiorem vel exteriorem supponi posse.
+
+Ponamus 10 tres circulos C, C' et C'' extra circulum tangentem cadere.
+Ex dictis, construantur 1⁰ polares similitudinis directae TT et T'Tl cir-
+culorum C et C''. 20 Eti'am polares similitudinis directae tt et t't' circu-
+lorum C et C'. 3⁰ Denique axes radicales O'P et O''P circulorum C et C'',
+C et C'. Ex supra dictis, TT et O' P sunt rectae homologae circulorum C et
+C, et tt et ΟΠ Ρ sunt etiam rectae homologae circulorum C et C,; ergo puncta
+p et P intersectionum istarum rectarum, sunt puncta homologa circulo-
+rum C et C„ adeoque> recta pP per centrum similitudinis, id est, per
+

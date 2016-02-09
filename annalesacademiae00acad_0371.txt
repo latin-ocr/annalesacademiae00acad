@@ -1,0 +1,52 @@
+(39)
+
+contactuum erit polaris quaesita: si intra circulum versatur, ducantur per
+illum polum duae chordae, et ad ipsarum extremitates ducantur tangentes3
+recta quae illorum angulorum circumscriptorum vertices jungit, erit po-
+laris quaesita. 20 Si recta polaris sit data, et quaeratur ipsius polus, tunc
+ex duobus punctis istius polaris extra circulum positis, ducantur tangentes
+ad circulum, et punctum intersectionis duarum chordarum contactuum,
+erit polus quaesitus.
+
+Adnotatio. Ex definitione poli rectae polaris, sequitur polum tangentis
+esse ipsius tangentis punctum contactus, et vicissim, rectam polarem
+puncti cujusvis in circulo sumpti, esse tangentem ad ipsum polum.
+
+Proprietates praecedentes sunt projectivae, (Theor. I, 2 part. ), adeoque
+facile extenduntur ad sectiones conicas quae centro gaudent, id est ad
+ι ellipsim et hyperbolam.
+
+THEOREMA III.
+
+Si ex puncto S ducantur secantes SA', Sa', etc.‚ (fig. 39), onmia
+puncta concursus rectarum Aa et A'a', etc.‚ et tangentium ad puncta α,
+α’, etc.‚ in eadem recta sistunt.
+
+Sit TT‘ recta polaris puncti S. 1⁰ Ex jamjam dictis sequitur tangentes
+ad α, α’, etc.‚ sese supra TT' intersecare.
+
+2⁰ Ex theoremate 1Ω habemus,
+
+CS : CA = CA : CM et C'S : C'a = C'a z C'm
+ex his deducitur
+CS -Ι- CA CA -Ι- CM
+cs-CA Ξ CA—CM’
+C'S-l-C'a C'a-l-C'm
+
+‘³‘ m=m
+
+ 
+
+ 
+
+vel? SA' : SA = A'M : AM.
+
+‚ vel Sa' : Sa = a'm z am:
+
+Ergo rectae Aa, Mm et A'a' concurrere debent in unicum ptmctum3
+vel potius rectae Aa et A'a' sese invicem secant supra TT'. Idem dicere—
+tur de alia quacumque secante:
+
+3⁰ Ex proprietatibus quadrilateri completi (pars 1ὃι ), sequitur diagona-
+nales Aa' et A'a sese etiam supra TT' secare. Ergo, etc.
+

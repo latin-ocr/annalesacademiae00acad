@@ -1,0 +1,36 @@
+(29)
+
+Hoc posito, sit (fig. 28) quodcumque hexagonum circulo circumscrip-
+tum: si locus oculi et planum perspectivum ita capiantur ut perspectiva
+puncti I intersectionis diagonalium AD et BE, sit centrum perspectivae
+circuli, (quod obtinetur, si locus oculi et planum perspectivum ita dis-
+ponantur, ut recta quae puncta concursuum laterum oppositorum qua-
+drilateri inscripti rmuq, sit infinite distans, circuli autem perspectiva sit
+etiam circulus) tum ex lemmate, tertia diagonalis CF etiam per centrum
+transire debet3 ergo in plano objectorum tres illae diagonales in unicum
+punctum Ι concurrunt.
+
+Istae proprietates facile ad sectiones conicas extenduntur3 si ponamus,
+verbi gratia, circulum esse basim coni cujusdam et oculum versari in
+vertice ipsius coni, tunc si circulo inscriptum sit hexagonum, cujus
+latera opposita concurrant in puncta ejusdem rectae, etsi conum secatur
+plano quodam perspectivo, perpectiva circuli erit generaliter una e sec-
+tionibus conicis, cui inscriptum erit hexagonum cujus latera opposita
+concurrunt in puncta quae in directum sistunt, si quidem perspectiva
+lineae rectae, sit etiam recta. Haec quae de hexagono inscripto diximus,
+facillime ad alia Theoremata applicari possunt.
+
+THEOREMA VI.
+
+In omni pentagono sectioni conicae circumscripto, recta quae jungit
+unum quodcumque punctum contactus, cum vertice opposito, transit per
+punctum intersectionisbduarum aliarum diagonalium (fig. 32.)
+
+Sit hexagonum circumscriptum ABCDEF, cujus diagonales in unico
+puncto I sese invicem secant. Si ponamus punctum E secundum diago-
+nalem ΕΒ progredi, donee in punctum T sectionis conicae, incidat:
+eveniat ut duo latera ΕΒ et EF abeant 'in tangentem F'D' ad punctum
+
+D sectionis conicae. Sequitur ergo, per legem continuitatis, rectas BT,
+AD'v et CF' in unico puncto I' sese invicem secare⁴
+

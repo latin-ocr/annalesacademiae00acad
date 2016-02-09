@@ -1,0 +1,43 @@
+(24)
+
+Adnotalio. Si ex puncto R ducatur alia quaevis recta Rgh, notum
+est tangentes in punctis g et h sibi in recta BD occurrere, et ex proe-
+cedentibus sequitur diagonales (ab) g et fh in puncto I ejusden] rectae
+BD concurrere. Ex his facile concluditur rectas Rm et th esse tangentes
+ad puncta m et n in quibus recta BDI sectionem conicam secat.
+
+THEOREMA IV.
+
+Sit (ab) (cd) (ff) trigonum sectioni conicae inscriptum3 si ad vertices
+istius trigoni ducantur tangentes, eorum puncta concursus R, R' et R'' cum
+lateribus oppositis trigoni inscripti, erunt in eadem recta (fig. 27 ).
+
+Theorema istud etiam repetendum est ex Theoremate primo3 nam si
+ponamus (fig. 24) latera ab, ccl et esinfinite parva fieri⁷ proprietas hexa-
+goni non mutatur: ergo per legem continuitatis ista proprietas valet ‚
+quando latera ab, edet cftangentes ad puncta (ab), (cd) et (ef) evadunt.
+Ergo, etc.
+
+Adtzotatio. Tangentes trigonum circumscriptum formant, adeoque
+
+theorema sequens enuntiare licet.
+Si sectioni conicoe inscribatur trigonum, et deinde circumscribatur
+
+aliud trigonum quorum latera sectionem conicum tangunt ad vertices
+trigoni inscripti, duorum istorum trigonorum latera opposita, in tria
+puncta in directum posita, concurrunt.
+
+THEOREMA V.
+
+In omni hexagono sectioni conicae circumscripto, tres diagonales qnae
+vertices oppositos jungunt, per unum idemque punctum transeunt (fig. 28).
+
+Sit ABCDEF hexagonum circumscriptum: si puncta contactus junga—
+mus, habebimus hexagonum inscriptum abccqu. Producantur latera op—
+posita af et cd ‚ usque dum sese intersecent in R , et: ducamus rectas Rm et
+Rn3 rectae istae erunt tangentes: nam si producantur latera AB, AF, CD
+et DE, erit AGDH quadrilaterum circumscriptum et afcd quadrilaterum
+inscriptum: ergo (Adn. Theor. III.) Rm et Pm erunt tangentes ad puncta
+
+m et n.
+

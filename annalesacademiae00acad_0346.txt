@@ -1,0 +1,48 @@
+(14)
+
+et cum rectae A‘A‚ A'L, A'C, et A'H fascem harmonicum forment⁷
+erit etiam
+
+[Κ] ; Lf' = L'ss‘fflssv
+vel L'f': Lj' = L'K' ; LK'
+ergo szsz L‘f'2Lf', unde Lsf-ff-szLs = L'f' -ff-s'L z Lf'
+et consequenter Lf 2: Lf'. Eadem ratione demonstratur rectam AC' per
+punctum setiam transire: ex his sequitur cc' in punctum K‘ concurrere.
+
+THEOREMA lx.
+
+Si in quadrilatero cotnplet0‚ uti est ABFCGDA (fig. 19), producatur
+diagonalis AG usque dum FG in E occurrat, duo alia quadrilatera
+considerari poterunt, scilicet GDACFEG cujus diagonales sunt CG, DE
+et AF3 et FEGCABF quod diagonales habet CF, BE et AG: dico rectas
+per media diagonalium ductas, in unoquoque istorum quadrilaterorum ,
+
+sese invicem secare in unico puncto 03 et insuper esse OR=OR0‚
+OR' = ΟΒ, et OR‘' = 032,
+
+Demonst. Reipsa 3
+
+¹ AR, =R,F et AR2= R‚G ..... R,R, et RHR‘
+
+ἒ CR'J = FRv et CR' :R'G sequitur ζ parallelas esse lateri ξ FG
+ex AR, = R2G et car :2va ..... R2R¹ et affl
+
+(AR, = RAE et FRv Ξ.- RvC ..... ί parallelas esse lateri ἕ AC
+
+ergo R,R2R'R'‘ est parallelogrammum, et consequenter OR,=OR' et
+OR, = OR''.
+
+Eodem modo probaretur RR2R0RH esse etiam parallelogrammum: ergo
+OR'' = OP=² et ΟΒ = ORo.
+
+Cum duo ista parallelogrammata unam diagonalem R2R'' communem
+habeant, sequitur duas alias ΒΗ.) et R,R' per medium Ο diagonalis
+R‚R'' transire. Ergo etc.
+
+Corollarium. Ex theoremate isto, sequitur quod, si in trigono quo-
+dam, e verticibus ad latera opposita demittantur catheti quae, ut notum
+est, in unico puncto sese invicem secant, puncta novem, scilieet 1ο media
+distantiarum a puncto intersectionis cathetorum ad vertices trigoni,
+2⁰ media laterorum trigoni, 3⁰ denique puncta intersectionum catheto-
+rum cum trigoni lateribus, in una eademque circumferentia jaceant.
+

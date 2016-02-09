@@ -1,0 +1,39 @@
+(31)
+
+cujusque lateris concipiantur diametri quae extra curvam productae, oc—
+currunt duobus lateribus contigui5‚ puncta intersectionum sistunt in recta
+lateri reliquo quadrilateri, parallela.
+
+Sit (fig. 33) hexagonum abcdef parabolae inscriptum: ponamus puncta
+ve et fa punctis a et cl imlefinite‘amoveri3 tune punctum r'' etiam inde-
+finite rejicitur, et latera af et (Ie ad parallelismum tendunt: ergo, quando
+puncta e et f in infinitum excurrunt, latera afet de evadunt inter se
+parallela, vel potius fiunt diametri parabolae, et punctum r'' abit in infini—
+tum, adeoque rectae rR' et bc in parallelas transformantur: ergo denique
+(fig. 35) in quadrilatero ahod, rectae RR' et bc sunt inter se parallelae.
+
+THEoRnMA x. ,
+
+In omni quadrilatero parabolae circumscripto, rectae per duos vertices
+oppositos ductae, et parallelae duobus lateribus adjacentibus quae per istos
+vertices transeunt, sese invicem secant super diametrum quae per verti-
+cem duobus aliis lateribus formatum, transit.
+
+Sit (fig. 34) ABCDEF hexagonum parabolae circumscriptum: ponamus
+puncta T et T' in quibus latera EF et DE parabolam tangunt, in infinitum
+abire: idem erit de punctis D , Ε et F, et proprietas hexagoni circumscripti,
+manebit eadem: ergo, ex lege continuitatis, ista proprietas adhuc valebit,
+quando puncta T et T' ac proinde puncta D, E et F in infinitum erunt
+translata, quo in casu CF ad AF et CD ad AD fiunt parallelae. Porro
+punctum Ε quod est intersectio duarum tangentium DE et EF, in infi-
+nitum excurret, et consequenter BE fiet diameter paraholae: ergo denique
+CF et AD (fig. 36) lateribus AR et CR parallelae et diameter per Β,
+
+in unicum punctum Ι concurrunt.
+
+‘THEOREMA xi.
+
+In omni quadrilatero parabolae circumscript0‚ latera opposita in segmentis
+proportionalibuS, tangente quacumque transversali secantur (fig. 37.)
+Sit ABCD quadrilaterum circumscriptum et cd tangens arbitraria. In
+

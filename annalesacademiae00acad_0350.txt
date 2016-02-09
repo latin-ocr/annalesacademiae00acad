@@ -1,0 +1,39 @@
+(18)
+
+quadrilatera erunt inter se aequalia ‚ eritque AO = A'O et C'GA = CGA':
+ergo AOA' est recta cujus medium est punctum Ο.
+
+Eodem niodo probaretur GOG‘‚ etc. medium versari in puncto Ο.
+Abscindantur supra AF et A'F'‚ longitudines AH et A'H' aequales inter se,
+et jungantur H et H‘ cum puncto O. Erit trigonum AHO aequale trigono
+
+Α’Πό, siquidem ΑΗ ΞΑΉ, Ao = Αό et Ηῖζο = H‘X'o2 inda ΑΘΗ =
+
+A'ssfl' et 011: OH': ergo denique HOH' est recta in puncto Ο bifariam
+divisa.
+
+Adnotatio. Ex triangulis similibus AEG etDFG, concluditur EXG=DG3G
+et consequenter arc: Ga = arc : Gf3 haberetur etiam arc τ Fa = arc : Fg
+et arczAg z arc ; Af. Ducatur Gf: trigona GfD et DGC sunt aequalia,
+siquidem latus DG sit commune, et habeant angulos rectos in D et an-
+
+gulos aequales DfG = GGQ nam arcus {OEa -Ι- aG) et ÷(Fg -Ι- Gf) ex
+dictis aequales, istos angulos mensurantur: ergo CD Ξ Df. Erit etiam
+CE = Ea et CB z Eg, etc. Generaliter facile est videre circumferentiam
+ex O descriptam, esse locum punctorum quae rectas demissas a puncto C
+ad circumferentiam ex C' cum radio duplo descriptam, (nam si ducan-
+tur R'O et G'C, erit C'R'2C'G' = OR':CG'=1:2)‚ vel etiam quae
+rectas demissasa C', ad circumferentiam ex puncto C descriptam] bisecant.
+
+Punctum Ο est etiam centrum curvae quae per puncta A‚F'‚G‚ A‘‚F‚G'
+transit, quae curva est ellipsis.
+
+THEOREMA XII.
+
+Si duo trigona ita sint disposita in uno eodemque plarm, ut rectae quae
+vertices A et α, Β et Ζ), C et c jungunt, per unicum punctum D tran—
+seant, tnnc puncta intersectionnm laterorum AB et ab , BC et hc, AC et
+ac, in una eademque recta erunt collocata (fig. 23 ).
+
+Sint ABG et abc talia trigona3 lateribus productis usque ad ipsorum
+

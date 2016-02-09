@@ -1,0 +1,47 @@
+(59)
+
+Si loco cz et b scribamus λα et Ab, et si deinde ponamus λ = ο, tunc
+recta per originem transibit et ipsius aequatio erit
+
+{÷{=0 ............ (9)
+
+iisdem positis in aequatione (6), prodibit haec conditio
+a2 (A'a—AC') 42ab(CC'—A'B') -Ι- b²(B'²—BC') = 0 . . . (ιο)
+ex qua consequitur rectam per originem ductam, curvam tangere.
+
+Si insuper curva aequationis (1), per originem transit, tunc evidenter
+punctum contactus erit origo3 unde C' = ο, ac proinde aequatio (10) fiet
+a2A'2—2ab >< A'B' -Ι- b2B'2 = ο, vel czA'— bB'= 0 . . . (11).
+
+Curvae centrum innotescit ope aequationum
+
+(12). . . Ax÷cy÷A'=0 et By÷cx÷131=0... (15).
+
+(Vide Geom. analyt. D. Garnier, 2³ edit. pag. 67), ex quibus dedu- l
+
+cuntur sequentes
+
+(14)..((3’-ΑΒ).τ-Ι-(ΒὈ-Α’Β)-.;ο (c2—AB)y-1-(A'C-AB‘)=0 .. (15).
+Nunc quaerendus est locus centrorum omnium sectionum conicarum
+
+quae quatuor quascunque rectas tangunt.
+
+In hunc finem, sit aequatio (1) quae sectiones conicas representat, et
+ponamus duas rectas esse axes coordinatarum‚ et
+
+{†-}=1 et {F‘l‘brr‘=¹·
+
+repraesentare duas reliquas tangentes. Ex conditione, omnes curvae duos
+axes tangere debent, -adeoque aequationes (7) et (8) locum hahent, et
+’ cum eaedem curvae duas alias rectas etiam tangere debeant, aequatio (6)
+et alia ex illa derivata, mutando a et b in α’ et b', locum etiam ha—
+bent. Sed ope relationum (7) et (8), duae aequationes (6) reducuntur ad
+γ ab (eff—AB) -Ι- iza (A'C—AB') -}- 2b (ΗΟ-ΒΝ) -Ι- 2(CC'-A'ss') == o
+a'b' (Cu-AB) -Ι- 2a' (A'C—AB') -Ι- 2h'(B'C—BA') -Ι- 2 (ΟΟ’--Α’Β’) = ο
+Si ex aequationibus (14) et (15) in quibus x et y sunt centri coordinatae,
+eliciantur valeres (B'C—A'B) et (A'C—B'A) et in ultimis substituan—
+
+tur, prodibunt sequentes
+(Cn—AB) (2bx-1—2ay—ab) =2(CC'—A‘B) ι . ¹ · ι (Μ).
+(02-AB)(2b'x-1-2a'y-a‘h')= 2 (CC'-A'B)
+

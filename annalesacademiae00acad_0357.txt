@@ -1,0 +1,47 @@
+(25)
+
+Si producantur latera opposita ab et de usque ad ipsorum concursum
+R', eodem modo probaretur R'r et R'q esse tangentes ad puncta r et q.
+
+Si denique producantur bc et esusque dum concurrant in ΒΝ, rectae
+R''p et R''0 erunt tangentes ad puncta p et ο.
+
+Atqui tria puncta R‚R' et R'' in eadem recta sistunt (Theor. 1); ergo
+( Ge'om. Descrip. Monge, pag. 51) rectae mn, po et rq, vel, quod idem
+est, diagonales hexagoni circumscripti, in uno eodemque puncto sese
+invicem intersecant.
+
+Inter varias demonstrationes istorum theorematum, quas recentissime
+excogitaverunt Geometrae‚ anteferendae nobis videntur sequentes quae
+nonnullas tantum Perspectivae notiones, requirunt.
+
+1⁰ Si duae aut plures rectae in unico puncto concurrunt, earum per-
+spectivae erunt inter se parallelae ‚ dummodo planum perspectivum ‚ (leplatz
+de perspective ou plan clu tableazc) sit parallelum rectae quae locum oculi
+sive punctum visus, jungit curn puncto concursus omnium rectarum.
+
+2⁰ Vicissim si plures rectae in plano perspectivo sint parallelae, et una
+⁷ aut plures aliae primis videantur parallelae, tunc omnes rectae, iu plano
+objectorum sive objectiv0‚ in uno eodemque puncto concurrunt.
+
+3⁰ Si plures fasces (faisceaux) rectarum concurrant in diversa puncta
+quae in directum ponuntur, tunc perspectivae rectarum uniuscujusque
+fascis, erunt inter se parallelae, dummodo planum perspectivum sit paral-
+lelum plano quod per oculum et rectam punctorum concursuum transit.
+
+4⁰ Vicissim, si rectae in plano perspectivo forment plura systemata
+linearum in unoquoque systemate inter se parallelarum, tunc omnes
+illae rectae in plano objectorum apparent sese super eadem recta inter-
+secantes.
+
+5ο Ponamus circulum et rectam in eodem plano describi: planum per-
+spectivum semper ita collocari potest, ut recta in infinitum visa sit, circuli
+autem perspectiva sit adhuc circulus. Cum illa propositio mihi nunquam
+occurrit, nisi in peculiari casu, scilicet in projectionibus stere0g1·aphici5‚
+illam demonstrare necessarium duco.
+
+Sint (fig. 29) MC'L circulus et AB recta in eodem plano sita. Per
+centrum C' circuli, ducatur planum ad rectam AB normale, cujus
+
+4
+

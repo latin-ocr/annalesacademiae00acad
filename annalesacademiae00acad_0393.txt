@@ -1,0 +1,41 @@
+(61)
+
+et α’, h' coordinatae puncti dati3 cum omnes curvae quas repraesentat
+aequatio generalis (1), axes tangere debeant, aequationes (7) et (8) in usum
+veniu11t3 et cum etiam eaedem curvae tangere debeant tertiam rectam, erit
+etiam 1ξί ex oequationibus (M), scilicet
+
+(Cn—AB) (2bx-l-2ay—ab) = 2 (CC'-—A'B') . . . . (M)
+
+Insuper, cum curva per punctum (α’, b' ) transire debeat, prodibit
+
+haec conditio
+Aa& -Ι-ΒΖ)’Ξ -Ι- 2Ccz'b' -{- 2A'a' -Ι- 2B'b' -Ι- C' =0 . . . . (17)
+Denique duee diametri conjugatae, ut jam vidimus, aequationes habent
+(12) . . . . Ax-l-Qs-l-A'=0‚ By†Cx÷B'=o . . (13)
+in quibus x et y sunt centri coordinatae.
+
+Eliciendae ergosunt quantitates A, Β, C, A', B', C' ex aequationibus ·
+(7), (8), (Μ), (17), (12) et (13). In hunc finem, in aequatione (17), scri-
+bamus valores A' et B' ex (12) et (13) desumptos, et habebimus
+
+C¹= α’ (2x—a')A-1-b'(2y—b')]3 42 (b'x-l-asy—a'b') C.
+
+Hisce valoribus A', B' et C' in aequationibus (7) (8) et (M) substitutis,
+si primae addamus quantitatem 2C⁹hsy -Ι- C2b'2- 2C2b'y— C2b'2 = o ,
+secundae 2C2a'x † C2a'³ — 2C2a'x — (Ξαα15 = o, et tertiae 2AB (h'x -Ι- affy
+— a'b') = 2AB (b'x -Ι- αζγ- a'b' )‚ prodibunt infra scriptae
+
+{(x-a')A÷<y-b''> c}2÷b'<2y—b'><c2—AB)=0
+{(y-b')B÷(x—a')C}2÷a'(2x-a') (Cn—AB) = 0
+2{(x-a')A÷(y—-b*)0} {(y—b‘)ss÷(x—a')c}=
+{mlxx ÷a(y-a‘l›') - (2ay4 mix—abst (Ca—AB)
+quae, ponendo
+<x—a')A÷(y—-h'> C = Ρ
+(y—b')B-{- (ατ-α’) C: Q
+et (Ch-AB) == R'.
+mutabuntur in sequentes
+ΡΒ -l- b' (2y—b‘) R= = o
+(ἓῢ-ὶ-αΎΞεε-αἺΒα = o.
+et ΞΡΩεξρΨΗ-αῡι-ωθ)-ωαχ-ι-ἓῡκ-αωξω
+

@@ -1,0 +1,47 @@
+( 6 )
+Demonst. Ex praecetlemi theoremate habetur Ab >< Bc >< Ca: Ac >< Ba >< Cb (χ)
+cm . . . . Ab >< Cm><Bc=Ac><Bm><Ch ....... (2)
+
+Δ ABC sectum transversali cm' dat... Am'><Ca><Bc--Ac><Ba><Cm' ....(5)
+[κη’] . . . Ab><Ca><ssrn11=A1n⁰><Cb><Ba.‚..(4)
+
+Ducendo inter se (2), (3) et (4), reducendoque productum ad simpli-
+
+ciorem formam ope aequationis (1) ad 2am potestatem elevatae, prodibit
+Am' >< Bm'l >< Cm = Am''>< Bm >< Cm'.
+
+Ergo ex Theor. 1⁰ consequitur m ιη’ m'' esse lineam rectam.
+
+DE D1VI810NE Hlnmomcl.
+
+Recta quasdam AB (fig. 6) dicta est harmonice* divisa in punctis
+C et D, quando productum ex segmentis quae nullam communem liabent
+extremitatem, aequale est producto ex duobus alteris, vel aliis verbis, si
+
+habeatnr ,
+
+AC><BD==AD><BC‚ ex qua AC2BC=AD1BD ........ (ι)
+
+Ut ista proportio valeat, facile videre est unum ex punctis Ceti),
+positum esse debere supra rectam AB, alterum autem supra ipsius pro-
+
+ductionem.
+Si quantitates AC et BC enunciamus ope distantiarum puncti D ad
+
+puncta A, B et C, proportio (ι) fiet AD—CD: CD—BD = AD313D,
+Ex ista proprietate, recta CD nomen accepit mediae harmonicae (moyenne
+harmonique) AD inter et BD.
+
+PROBLEMA.
+
+Rectam magnitudine datam, harmonice dividere.
+
+Ex his quae jamjam diximus, facile concluditur problema istud
+indeterminatum esse, atque unum ex duobus punctis C et D, posse pro
+lubitu determinari3 sed si datum sit unum ex his punctis, vel 'si recta AB
+ita harmonice dividenda sit, ut segmenta AC et BC sint inter se uti m sn,
+tunc problema unicae solutionis capax est: quos casus percurremus.
+(fig. 7).
+
+Constr. 1⁰ Sit punctum C datum: ducantur per C quaecumque recta
+

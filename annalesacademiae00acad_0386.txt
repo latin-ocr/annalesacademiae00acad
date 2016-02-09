@@ -1,0 +1,40 @@
+(54)
+
+PROBLEMA 11.
+
+Datis quatuor rectis in eodem plano, quadrilaterum formantibus, con-
+struere rectam quae jungit concursus laterum oppositorum, ponendo
+istas rectas usque ad ipsorum concursum nou posse produci.
+
+Duo ista problemata pluribus aliis modis resolvi possunt. 1⁰ Ex Theo—
+remate XII primae partis. 2⁰ Ex theoria perspectivae. 3⁰ Ex theoria pro—
+lectionum.
+
+PROBLEMA ΙΙΙ.
+
+Rectam FG (fig. 49) producere trans obstaculum, v. g. montem quo
+oculi radii in directione FG impediuntur.
+
+Ponatur signum in puncto quodam arbitrario C, deinde in directioni—-
+bus CG et CF, sumantur duo puncta B et D ita ut directio BD trans
+obstaculum perveniat, et quaeratur punctum A intersectionis directionum
+FB et GD, denique in directione AC ponatur signum in puncto quodam
+arbitrario C', et determinantur puncta B' et D' intersectionis directionum
+GC' et FB, FC' et GD3 quibus peractis, si quaeratur punctum intersec-
+tionis directionum DB et D'B', quod sit K, erit K punctum productionis
+FG (coroll. ΙΙ. Theor. V primae partis).
+
+Si capiatur aliud punctum C, eadem operatione, obtinebitur aliud punc-
+tum K' productionis GF, adeoque productio illa erit omnino determinata.
+
+PROBLEMA IV.
+
+Per punctum datum supra sectionem comeam, tangentem ducere.
+
+Sit (ba) (fig. 25) punctum datum3 capiantur supra sectionem conicam,
+quatuor alia puncta c, d, e, f, arbitraria, ut habeatur pentagonum in-
+scriptum (ba) cdef, in quo latera eset c (ba) sibi invicem occurrant
+iu R', et latera cd et (ba)f, quarum intersectio sit R: si ducatur RR',
+latus ed istam rectam RR' secabit in quodam puncto R'' et si denique
+ducatur R'' (ba )‚ ista recta erit tangens quaesita. (Theor. ΙΙ seeuudae partis).
+

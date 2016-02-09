@@ -1,0 +1,46 @@
+(4)
+
+THEOREMA Ium-
+
+Si trigoni cujusdam tria latera, vel ipsorum productiones, transversali
+secantur‚ ita eruut sex segmenta, ut productum ex tribus quae nullum
+communem habent extremitatem, sit aequale reliquorum producto (fig. 2.).
+
+Exempli grati&⁷ sint ABG trigonum quodcumque et bc transversalis
+trigoni latera in punctis a, b et c secant: prodibit haec relatio
+
+Aa><Bb><Cc=Ac><Ba><Cb3
+
+Demonst. Ex uno vertice B ducatur parallela ad latus oppositum Ac,
+quae parallela in puncto K transversalem secat:
+
+ex triangul-IS similibus {bc et BbK erit Bb: Cb = BK: Cc ..... (1)
+aCethzK ....Αα; Ba: Ac: ΒΚ. . . . . (2)
+ducendo inter se'aequationes (ι) et (2), prodibit
+Aa><Bh><Cc=Ac><Ba><Ch ..... (A)
+
+Facile videre est ex fig. 2, idem esse, si transversalis latera trianguli,
+vel ipsorum productiones secet.
+
+Istud theorema est, ut ita dicam, theoria transversalium principium
+vitale, siquidem ad polygona plana vel non plana, etiam ad sphaerica
+extenditur.
+
+Corollarizem. Tria latera trianguli et transversalis haberi possunt ut
+quadrilaterum in quo quodvis latus, in triangulo tribus alteris formato,
+transversalis locum tenet: ex inde deducuntur quatuor formulae inter
+quas (A) reperitur, sed quae ad tres tantum reducendae erunt, siquidem
+quarta sit productum ex tribus alteris, quod per se patet.
+
+Vicissim, si Iocum habeat relatio Aa >< Bb >< CC = AC >< Ba >< Cha tunc
+tria puncta a, h, c erunt in directum posita: nam supponamus rectam
+ex puncto α ad b ductam, per ε’ transire, ex praecedentibus erit
+
+Aa >< Bb >< Cc‘ = Ac‘ >< Ba >< Cb.
+
+Unde concluditur A—c'- — Aa >< Bb
+
+Cc' - Ba >< Cb : verum ex relatione data, deducitur
+
+ 
+

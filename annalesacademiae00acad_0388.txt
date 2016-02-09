@@ -1,0 +1,45 @@
+(56)
+
+PROBLEMA VII.
+
+Rectam datam in duas partes aequales dividere, sub ea conditione ut
+una huic rectae adsit parallela.
+
+Sit ατί (fig. 7) recta in duas partes aequales dividenda, et sit hh' huic
+rectae parallela: ducantur duae rectae arbitrariae aD et a'D quae paralle-
+lam secant in punctis b et b'3 si deinde ducantur diagonales cz'h et ab'
+quae sese secant in puncto C, et si jungantur puncta D et C, punctum A
+in quo ista recta CD, rectam datam aa' secabit, erit medium quaesitum.
+Reipsa ex Theoremate V, est
+
+DB : BC: DA: CA, vel DB z DA z BC:CA.
+Ex figur& concluditur
+DBzDAz-Bh'zAa' et BC2CA=Bh':Aa
+ergo Bb' : Aa' = Bb' : Aa, wel Aa! = Aa.
+
+Aliunde quartum harmonicum punctorum a, A et α’ in infinitum ex·-
+
+currit⁷ siquidem diagonales hb' et (ια’ sint parallelae3 ergo A est medium (ια’.
+
+PROBLEMA VIII.
+
+Rectae cuicunque datae parallelam pei· punctum datum ducere, datis
+in hac recta tribus punctis quorum medium a duobus aliis sit aequidistans.
+
+Sit (ω’ (fig. 7) recta cui ducenda est pai-allelu per punctum h, et sit
+Aa = Aa‘. Ducantur ab et cz'b, deinde recta arbitraria a'D quae ab secat
+iu puncto D: denique ducatur DA quae a'b secat in puncto C: si postremo
+ducantur (cC quae a'D occurrat in puncto b'‚ et si ducatur hh', ista recta
+erit parallela quaesita. Ex Theoremate Π consequitur
+
+Db >< αΑ >< a'h' = Db' >< a'A >< ab.
+et cum Aa: Aa', erit
+Bb >< cz'b=Db' >< ab, vel Dszb'= ab2a'b'.
+
+Ergo hb' est parallela rectae (ω’.
+
+Aliunde quartum harmonicum punctorum a, A et α’, debet esse in
+infinitum, adeoque diagonales aa' et bb' sunt parallelae.
+
+TANTUM.
+

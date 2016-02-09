@@ -1,0 +1,36 @@
+(53)
+
+mmmmmwmwwsmmwmwsm--zmmmmmmmw*sm
+
+APPLICA'HONES 011AE SIGNORUM (JALONS) USUM TANTUM
+Imoununv'r.
+
+ψ
+
+PROBLEMA Ι.
+
+Per punctum A', visibile sed inaccessum, rectam ducere, id est deter-
+minare puncta intermedia rectae quae jungit punctum A' cum puncto
+concursus duarum rectarum BD et C'C quae produci non possunt (fig. 18 ).
+
+Istius problematis solutio ex Theoremate VHIo primae partis repetenda
+est. In huno finem ponatur signum (jalon. piqzcet) in puncto arbitrario
+B' rectae BD, et in directione B'A', ponatur secundum signum in puncto
+arbitrario F 3 deinde in puncto C' ad arbitrium sumpto in recta CC', po—
+natur tertium signum et quaeratur punctum D' rectae BD, quod sit in
+directione recta cum signis C' et F 3 denique quaeratur punctum G⁷ in
+directione recta cum A'D' et cum B'C', quod fit vel progrediendo vel
+retrogrediendo in directione D'A'‚ donec puncta B' et C' in linea rect&
+videantur. Punctis F et G cognitis, capiatur aliud quodque punctum C
+supra CC', et quaerantur puncta B et D rectae BD, in productione cujus-
+que rectae CG et CF: si postremo quaeratur punctum A in eadem direc—
+tione cum BF et DG, erit punctum A, unum e punctis quaesitis (Theor. VIII.
+primae partis). Si A' sit ex A visibile, tunc alia puncta inveniri possunt:
+si non sit visibile, secund-‘21 operatione obtinebitur aliud punctum istius
+rectae, adeoque recta erit determinata.
+
+Si puncti A' positio ex directionibus duarum rectarum FB' et GD' con—
+cluderetur, solutio eadem maneret, annotando determinationem puncti A
+nihil aliud quam directiones A'B' et A'D' requirere: unde sequitur hauc
+solutionem ad problema sequens esse accommodatam.
+

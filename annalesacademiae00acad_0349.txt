@@ -1,0 +1,47 @@
+(17)
+
+Sequitur trigona AR'R et A'r'r esse aequalia, adeoque
+AR' τ·- A'r' et AR = A'r.
+
+Ducendo R'R'' et r'1·''‚ eodem modo probaretur F'r' = FR' et F'r'' = FR'&
+concluderetur etiam G'r'' = GR'' et G'r= GR.
+
+Ex his sex aequationibus deducitur:
+
+AF= A‘F', AG = A'G' et FG = F'G'.
+
+Insuper C'R, C'R' et C'ff' mediis laterorum AG, AF et FG perpendicu-
+lariter insistunt, adeoque per vertices F', G' et A' transire debent. Ergo de—
+nique trigona AFG et A'F'G' sunt aequalia et punctum C', uti punctum C,
+est concursus cathetorum e verticibus A‘‚F',G'‚ ad latera opposita demis-
+sarum3 adeo ut duae flgurae exacte congruerent, si una ex illis circa
+puuctum O, revolutionis semissem percurreret.
+
+Facile videre est punctum G esse vicissim centrum circuli trigono A'F'G'
+circumscripti.
+
+2⁰ Ex figure, R'R''= -2 AG = ᾗ A'G' et R'R'' rectae A'G' est parallela:
+erit ergo etiam C‘R'= ἑ C'G', vel potius C'R'= R'G⁷: inde sequitur
+C'A= G'A, vel, aliis verbis, radium circuli trigono AFG circumscripti,
+aequalem esse radio circuli trigono AGF circumscripti. Erit etiam
+
+AG'= FG'= A'F= A'C = A'G = F'G= F'A.
+
+Ergo omnes circuli sunt ejusdem radii. ,
+
+concludendum quoque erit puncta A‚F‚C et G esse centra circulorum
+trigonis F'C'G', A‘G'G', A'F'G' et A‘F'C' circumscriptorum, adeo ut, si
+notatur una ex quatuor litteris A‚F,C et G, punctum quod designat lit-
+tera primo notata, erit centrum circuli per tria puncta tribus aliis litteris
+designata, descripti: sic F', v. g. erit centrum circuli per A‚C et G ducti3
+et si tres notantur, punctum quarta littera designatum, erit centrum cir-
+culi per tria puncta tribus litteris primo notatis designata, ducti: sic F,
+v. g. erit centrum circuli per A', G' et C'.
+
+3⁰ Ducentur AO et A'O: trigona RR'C' et rr'C habent sua latera pa—
+rallela et RR'= rr‘: erunt ergo aequalia et R'C'= r'C.
+
+Quadrilatera AR'C'O et A'r'CO habent tria latera aequalia‚ et anguli
+
+tribus istis lateribus formati, ex utraque parte sunt5 aequales: ergo ista
+

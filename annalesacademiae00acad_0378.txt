@@ -1,0 +1,41 @@
+(46)
+
+similitudinis directoe, puncto autem S' nomen centri similitudinis in-
+versae, convenientius imposuit3 nam fieri potest ut centrum similitudinis
+quod dicitur externum, sit reipsa internum dnobus polygonis, et vicissim.
+
+Ex his sequitur omnes rectas quae per centrum similitudinis chiorum
+polygonorum similium transeunt, esse rectas liomologas duobus polygonis
+communes, et vicissim, omnes rectas homologas duobus polygonis com—
+munes, per centrum similitudinis transire.
+
+Rectae quae per centrum similitudinis transeunt, vocantur axes simi—
+litudinis vel clirectoe, vel invensae, secundum centri similitudinis deno—
+minationem3 ac proinde duo polygona similia , innumeros habent axes si—
+militudinis.
+
+Si autem sint tria polygona similia, in eodem plano sita, et si duo ex
+illis una considerentur, eruut tria centra similitudinis vel internae vel
+externae‚ et facile est probare ista tria centra esse in directum posita3
+sic ista tria polygona unicum axem similitudinis directoe habebunt,
+dummodo sint directe similia3 inversae autem, si unum e polygonis,
+duobus aliis sit inverse simile, et consequenter axis similitudinis directoe,
+per trin centra similitudinis (lirectoe transit3 axis autem similitudinis
+inversae, per cluo centra similitudinis inversa> et per unum centrum
+similitudinis directae, transit.
+
+Ponamus nunc duo polygona in eodem plano sita, simul esse similia
+et regularia; tunc eorum centra sunt puncta in duobus polygonis similiter
+sita, adeoque recta quae ista centra jungit, per centrum similitudinis
+transire debet, et ex praecedentibus sequitur distantias centri similitudinis
+a centris polygonorum , esse proportionales lateribus polygonorum, adeoque
+radiis et diametris circulorum duobus polygonis tum inscriptorum tum
+circumscriptorum. Si insuper ista polygona parem laterum exhibent
+numerum⁷ tunc unumquodque latus unius polygoni, duobus lateribus
+oppositis alterius polygoni, parallelum est, adeoque considerari possunt
+duo ista polygona ut directe et inverse similia ,- habent ergo duo centra
+similitudinis, scilicet: unum similitudinis directae, alterum similitudinis
+inversoe.
+
+Circulus considerari potest ut polygonum regulare ex numero pari et
+

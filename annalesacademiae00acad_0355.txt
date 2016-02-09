@@ -1,0 +1,42 @@
+(23)
+
+diagonales quadrilateri quod ex istis tangentibus nascitur, in uno eodemque
+puncto sese invicem decussant. 3⁰ Quatuor puncta R, R', ΙΨ et Hm pro-
+portionem harmonicam formant (fig. 26 ).
+
+1Ω Ex proprietate hexagoni facile deducitur theorema istud: nam si
+ponamus (fig. 24) latera ab et de infinite parva fieri, puncta α et h in
+unicum punctum (ab), et puncta d et e in unicum etiam punctum (de)
+abeunt. Aliunde latera ab et de fiunt tangentes in punctis (ab) et (de).
+Nascitur ergo quadrilaterum (ab) e (cle) f inscriptum cum tangentibus
+ad puncta (ab) et (ἄρ), et exlege continuitatis sequitur puncta R, R' et R''
+in eadem recta jacere.
+
+Si nunc ponamus latera (ab)fet (ab) c quadrilateri (ab) c (de) f,
+circa punctum (ab) tali motu rotatorio agi, ut latus (ab) sper α’, latus
+autem (ab) c per ε’ trauseat, erit hexagonum (ab) c'e (de) fa' sectioni
+conicae inscriptum, in quo latera opposita in tria puncta super linea recta
+posita concurrunt. Si latera (ab)fet (ab) c ad priorem statum revo-
+camus ‚ latera cc' etfa' fiunt tangentes ad punctafet ο, et cum proprietas
+hexagoni semper eadem maneat, ex lege continuitatis sequitur puncta
+R, R' et RW in eadem recta jacere. Ergo quatuor puncta R, R', R'' et ΒΨ
+sunt in directum posita.
+
+2⁰ Si consideretur quadrilaterum inscriptum (ab) cf (cle) cujus latera
+opposita sese decussant in punctis Ι et D , et cujus vertices oppositi sunt (ab)
+et f, c et (cle), ex praecedentibus concludendum erit puncta Ι, D, R'etB
+in eadem recta versari. Si deinde consideretur quadrilaterum inscriptum
+(ab)fc (sle), erit etiam concludendum puncta A, Ι, C et R esse in una
+eademque recta. Ergo denique rectae (ab) (cle), fc, AC et BD quae sunt
+diagonales quadrilateri inscripti et quadrilateri circumscripti, in idem
+punctum I concurrunt.
+
+3⁰ BR'' AD CR‘''B uti quadrilaterum completum considerari potest, in
+quo diagonalis R''R‘'' duabus alteris BD et AC in proportione harmonica
+secatur3 erit ergo
+
+RHR! 3 RlRm = ΕΗΒ 3 errR
+erit etiam
+
+AI : IC = AR:CR‚ etc.
+

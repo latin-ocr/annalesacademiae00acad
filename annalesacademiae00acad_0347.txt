@@ -1,0 +1,43 @@
+( 15 )
+
+Reipsa‚ figurae R''R‚R‚R' et RR2RoRH fiunt rectangula in quibus diago-
+nales sese invicem bifariam secant. Erit ergo,
+
+ΟΒ = OR' = OR'' == OB„ Ξ OR, = OR2.
+
+Si nunc ex puncto O (fig. ΞΟ) demittatur cathetus Om ad FD, erit
+Om parallela lateri AG, et cum R'‘O = OR„ erit etiam R''m = ng
+sequitur ergo OD = OR''. Eodem modo probaretur OE: ΟΒ et OB=OR'.
+Ergo denique per novem dicta puncta transit circumferentia (ἢ.
+
+THEOREMA X.
+
+Quatuor puncta, scilicet 1⁰ punctum C (fig. 21) intersectionis cathe-
+torum ex verticibus trigoni in latera opposita demissarum, 2⁰ punctum
+P intersectionis rectarum ex iisdem verticibus ad media laterorum oppo-
+sitorum, ductarum, 3⁰ centrum O' circuli circumscripti, 4⁰ denique
+punctum O, in praecedenti Theoremate determinatum, sistunt in una
+eademque recta.
+
+Demonst. Omnibus punctis, uti in Theoremate praecedenti, notatis,
+facile videre& est R'Ro parallelam esse FD et = ὲ FC. Recta O'R„ ut
+perpendicularis ad latus AG, est etiam parallela perpendiculari FD. Ex
+altera parte R2R' et ΟῬιο catheto AE, adeoque inter se, sunt parallelae:
+ergo O'R² = R'R0 = -ξ FC.
+
+Notum est rectas per media laterorutn et per vertices angulorum oppo-
+sitorum ductas, sese invicem, ad ξ cujusque longitudinis a vertice, inter-
+secare: erit ergo PR, = ᾗ FP; adeoque habebimus: 0'R, : PR, = FC: FP.
+
+Insuper O'IRXP ε PFG ut anguli alternus internus: proindeque triangula
+O'R,P et FPC erunt inter se similia. Ergo denique O'PC est linea recta
+et habetur O'P: PC== 1 :2 vel O'P:O'C= 1 ε 3.
+
+Deinde O'aa'C est parallelogrammum, adeoque est aC = a'O'. Ex con-
+sideratione triangulorum ROR et R'OR„ est RB, :HT-0, proindeque
+triangula RhR, et R'h'R0 quorum latera parallela sunt, erunt inter se
+aequalia: inde bRL = b¹R' et cum ΟΒ, = OR'‚ sequitur Oh = Oh'.
+
+(⁴⁶) Punctum Ο est centrum sectionis conicae in qua reperiuntur centra omnium sectionum
+conicarum quae, trigono inscriptae, per punctum C transeunt. (Vide, iu fine, adnotatione-32).
+

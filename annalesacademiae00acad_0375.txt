@@ -1,0 +1,42 @@
+(43)
+
+Ex his, possumus concludere 10polzcm plani cujusdam, esse intersec-
+tionem communem omnium planorum circumferentiarum secundum quas
+sphaera tangitur a conis quorum vertices super istud planum sistunt,
+2⁰ planum palare puncti cujusdam, esse planum in qno reperiuntur
+vertices omnium conorum sphaerae circumscriptorum, quorum plana cir-
+cumferentiarum contactuum⁷ per illud punctum transeunt.
+
+Vidimus (pag. 36) rectam polarem in plano circuli, non habere nisi
+unicum polum, sed in spatio recta data potest plures admittere polos.
+
+Dii-:atur in plano TT' et per punctum M, recta ad planum tahulae
+normalis3 istius rectae projectio erit punctum M: per centrum C sphaerae,
+ducatur planum ad rectam M perpendicularis; istud planum rectam M
+secabit in puncto M, sphaeram seeundum circulum ATA'T'‚ et planum
+recta SS' formatum⁷ secundum rectam SS'. Ex praecedentibus‚ omnes poli
+rectae M debent jacere in plano rect& SS‘ formato⁷ et simul in plano ad
+rectam M perpendiculari, per centrum C ducto; ergo istorum planorum
+intersectio SS', erit loeus omnium polorum rectae M.
+
+Inde facile concluditur rectam M esse vicissim locum omnium polorum
+rectae SS'3 unde duae rectae M et SS' vocatae sunt polares conjugatae‚ vel
+polares reciprocae, respectu sphaerae aut aliae superficiei secundi ordinis.
+
+Notandum est polares reciprocas M et SS', reperiri in duobus planis ad
+axem SA' normalibus, adeoque inter se parallelis, et si in plano unius
+polaris, ducatur parallela ad alteram, duae istae rectae, in eodem plano,
+sibi ad angulos rectos occurrunt.
+
+Duo plana SS' et TT' quae omnes rectas polares reciprocas continent,
+dicuntur ex hac proprietate plana polaria reciproca.
+
+Sit nunc circulus C (fig. 41 ) et ponamus polum quemdam A secundum
+curvam ABEF moveri: recta polaris correspondens Tt etiam suas mutabit ,
+positiones quarum intersectiones continuae et contiguae erunt totidem
+puncta cujusdam curvae. Si curva ABEF sit sectio conica, curva inter-
+sectionibus proximis rectarum polarium formata, erit etiam sectio conica3
+nani recta quaedam curvam secat in tot punctis quot numerantur unitates
+in gradu istius curvae aequationis: atqui sectionis conicae aequatio est se—
+cundi gradus3 ergo recta quaedam AB, v. g. ⁷ non potest illam secare, nisi
+

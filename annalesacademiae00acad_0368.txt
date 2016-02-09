@@ -1,0 +1,49 @@
+( 36 )
+illa secans per centrum circuli transeat et habeatur
+CS:CA=CA:CM
+
+tunc punctum M dicitur polus conjugatus (pdle conjugae) puncti S,
+et vicissim S diciturpolus conjugatus puncti Μ. Puncta S et M vocantur
+poli conjugati respectu diametri AA'‚ vel potius respectu circuli ATA'T'.
+
+Ex his sequitur 1ο punctum S extra circulum positum, habere infini-
+tum numerum polorum, respectu chordarum quae per S transeunt, inter
+quos polos, unus tantum est conjugatus.
+
+2⁰ Nullum in plano circuli existere punctum quod non habeat suum
+polum conjugatam.
+
+3⁰ Punctum in plano circuli situm, non habere nisi unicum polam
+conjugatum.
+
+THEOREMA I.
+
+Si ex puncto S (fig. 39) ducantur tangentes ST et ST', chorda con-
+tactuum TT', erit locum omnium polorum puncti S.
+
+1⁰ Per punctum S et centrum C circuli ducatur recta SC: radius CT
+est ad tangentem ST perpendicularis, iet, ut notum est, chorda TT' est]
+perpendicularis ad CS3 erit ergo in trigono rectangulo SCT,
+Ἐἴ-Γ -—.. CS >< CM, vel CA² = CS >< CM„
+
+Inde deducitur
+CS z CA = CA: CM.
+
+2⁰ Ducatur alia quaevis secans Sa'; si C‘ sit medium chordae (ια’, erit
+C'S: C'a = C'a: C'm.
+Reipsa‚ ex trigonis similibus SCT et SMT deducitur
+§T‘2 :sc >< SM;
+ex proprietate tangentium et secantium consequitur
+'ff' = Sa' >< Sa
+denique ex trigonis similibus SMm et SCC' oritur
+SG:Sm =SC¹:SM‚ vel SC >< SM: Sm >< SC'}
+
+ 
+
+ 
+
+ergo Sm >< SC' = Sa' >< Sa, ve] Sa' : sm = SC' ζ Sa
+inde Sa'-Sm - a‘m = SA· ex hac a'm-Ca' — Sat—sc«
+
+snffi'sd‘ffi SC'> c'a “” SC'*
+

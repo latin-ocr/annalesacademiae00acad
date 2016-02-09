@@ -1,0 +1,48 @@
+( 13 )
+Trigonum AFD transversa BG sectum ‚ dat
+AB><FC><GD = AG><DC><FB.
+Trigonum ABG transversa FD sectum, dat
+AD><GC><BF = AF><DG><BC
+ducendo inter se istas aeqiiatione3‚ invenies
+AD><AB><GG><FC = BC><DC><AF><AG.
+
+Ac proinde
+AD><AB AF><AG sinP><sinS
+
+W Ξ W Ξ 5ἰΠΩ><5ἰῃΟ“
+Atqui in quadrilatero simplici AFCG, diagonalis AC, recta OR'' in
+duas partes aequales dispescitur, et habetur relatio,
+AF ><AG sinP >< sinS
+
+W — sinQ ><sinO ⁷
+
+ 
+
+ 
+
+Ergo, ex praecedentibus, OR'' per medium alterius diagonalis FG, tran—
+sit, vel aliis verbis
+FR'' = GRW.
+
+THEOREMA VIII.
+
+Si ex puncto Κ in productione rectae GF sumto, ducatur quaevis recta
+KK', si deinde construantur supra FG trigona FAG, FA'G etc. ita ut
+vertices A, A' etc. jaceant in recta ad arbitritun ducta , dico systemata
+rectarum GB et FD‚ (ΕΒΓ et FD‘ etc. sese intersecare in punctis e, ε’ etc.
+supra una eademque recta quae per punctum K' concursus. rectarum A'A
+et KD, transit (fig. 18).
+
+Rectae ALC et. A'L'C' concurrunt, ut notum est, in unicum punctum
+H quod est. quartum harmonicum punctorum G, F et K.
+
+Demonst. Si ducantur A'L et ΑΠ’, erit quadrilaterum completum
+HLAaA'LH in quo habebitur
+
+L'f: Lf= L'K' z LKZ
+, Si deinde ducantur A'C et AC'} istae reetae sese invicem secabunt supra
+LL'·‚ in puncto f. Nam supponamus s'' esse intersectionem rectarum A'C
+et L'L: ex quadrilatero completo ABFCGDA deducitur:
+
+AL ; LC =. AH 2 CH
+

@@ -1,0 +1,42 @@
+( 41 )
+intersectio, erit Sa'3 aliunde acz' erit diameter circuli intersectionis plani
+Sa' cum sphaer5‚ et C' erit ipsius circuli centrum: atqui (Theor. Ι) est
+C'S:C'cz = C'cz: C'm
+
+ergo m est polus conjugatus puncti S, respectu circuli aC'a‘, et cum
+intersectio planorum per TT' et Sa', sit perpendicularis ad Sa' in puncto m,
+sequitur illam intersectionem esse rectam polarem puncti S, respectu
+circuli per (ια’. Ex altera parte planum per Sa', conum STT' secat se-
+cundum duas tangentes ad circulum per aa', quarum tangentium puncta
+contactuum inter se junguntur intersectione planorumrSa' et TT' quae
+per punctum m transit.
+
+Planum TT' omnes polares puncti S continens, dicitur planum polare
+puncti S, et punctum S dicitur vicissim polus plani TT'.
+
+Ex praecedentibus deducitur haec conclusio:
+
+THEOREMA V.
+
+Planum polare puncti cujusdam S, est planum contactus coni circum-
+scripti sphaerae, qui verticem habet ipsum punctum S.
+
+Ponamus nunc rectam SS' cum systemate praecedenti circa SA' rotare:
+ista recta generat planum perpendiculare ad SA', siquidem SS' sit per-
+pendicularis ad axem rotationis SA', et erit planum istud, planum palare
+puncti M. Nam 1ο ex dictis, evidens est quodcunque planum per SA'
+ductum ‚ secare planum SS' secundum rectam polarem puncti M, respectu
+sectionis illius plani cum sphaerfi. 2⁰ Ducatur per Μ , aliud quodvis pla-
+num S'a''; ipsius per planum SS' intersectio, erit recta polaris puncti M,
+respectu circuli aa'' ; nam per SA' ducatur planum perpendiculare ad pla-
+num S'a'' : hoc planum intersecabit sphaeram secundum circulum ATA‘T',
+circulum αα” secundum rectam S'd', et denique planum S'a'' secun-
+dum S'a''. Si ex centro C sphaerae, ducatur CC'' perpendicularis ad dia-
+metrum αα”, erit C'' centrum circuli aa''‚ et ex Theor. I.
+
+C''S' : C''a = C''a z C''M.
+Ergo S' est polus conjugatus puncti Μ, respectu circuli aa''; et cum
+aliunde plana SS' et S'aa'' sint ad planum SA' S'a'' nmmalia, sequitur
+
+6
+

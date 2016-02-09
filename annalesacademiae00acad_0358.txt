@@ -1,0 +1,42 @@
+( 2ss >
+
+intersectio cum primo plano, sit MK. Per punctum L in quo circumfe-
+rentia plano verticali secatur, ducatur quaecumque recta §LO in isto
+plano: deinde per punctum K demittatur iu eodem plano verticali, per—
+pendicularis KG ad NG, etex medio I ad rectam ΚΜ, erigatur perpen-
+dicularis IC: denique ex puncto C iu quo ista perpendicularis perpendi-
+cularem ad :XO per K ductam secat, describatur circumferentia MNKO:
+quibus positi5‚ si punctum Ο in quo ultima circumferentia rectam LN secat,
+fingamus esse locum oculi, (point (le vlle), planum auten] perspectivum
+esse parallelum plano ΟΑΒ, tunc in plano perspectivo circulus, erit adhuc
+circulus, et recta AB infinite distans videbitur.
+
+Reipsa , ex constructione sequitur RN Ξ ΚΟ , adeoque KGN = 1ἰῇῖο et
+
+RGP' z MCQ ergo planum OAB est⁷ ut dicunt, antiparallelum plano
+circuli ML, respectu rectarum ΜΟ et LO, siquidem planum rectarum
+ΜΟ et LO ,perpendiculare sit ad planum circuli ML et ad rectam AB. Ex
+hoc deducitur omne planum PQ plano OAB parallelum, esse etiam anti-
+parallelum plano basis, respectu rectarum ΜΟ et LO. Ergo ( Ge‘om. αηαζγί. ,
+Prof. Garnier, pag. 287, 2ae edit.) istius plani sectio cum cono ex radiis
+ab oculo Ο ad circulum ML demissis, formato, erit circulus, et cun] istud
+planum sit parallelum plano OAB, rectae AB perspectiva, infinite remota
+apparebit. Cum recta NL sit ad libitum capta, sequitur infinitum esse
+solutionum numerum.
+
+Ad Theoreina lum· Lemma. Si duo' latera contigua cujuscumque
+hexagoni circulo inscripti, sint parallela lateribus sibi oppositis, duo alia
+latera erunt etiam inter se parallela (fig. 30 ).
+
+Sint latera ab et afparallela ad edet cle, et ducantur diagonales be et aa':
+anguli abe et bed sunt inter se aequale5‚ uti anguli fad et acle, adeo—
+que erit,
+
+arc. “f-l· arc.se = arc. be -†- arc. cd3 ai·c.ecl-{-'a1=c.fe= arc. bc†arc. ab.
+si ex prima subtrahatur secunda , residuum erit ‚
+
+arc. af-ff- arc. ab = a1-c.‹=cl-{- arc. ecl.
+Unde consequitur latera ef et bc esse inter se parallela-
+Hoc positO, sit abcdef(fig. 24) hexagonum circulo inscriptum: sit R
+punctum concursus laterum af et cd, et R* punctum concursus laterum
+

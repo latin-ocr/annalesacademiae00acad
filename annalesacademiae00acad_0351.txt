@@ -1,0 +1,35 @@
+(19)
+
+intersectiones‚ concludemus
+
+ex ABD ........ bn ...... Α1ι><Βῖι >< DazAa >< Bn><ffl....(1)
+trian- CDB .. . transversali hp . . . secto· . Cc><Bp >< Db: Cp >< Bh><Dc....(2)
+gulo {ACD ........ am ...... Aa><Cm><DczAm><C0><Dannffi)
+
+ 
+
+Ducendo inter se (ι) (2) et (5), prodibit haec aequalitas
+An><Bp ><Cm=Am >< Cp ><Bn.
+
+quae exprimit relationem inter segmenta trigoni ABG transversali mpn
+secti: ergo (Theor. I.) me est linea recta.
+
+Vicissim, si duo trigona ita sint in eodem plano disposita, ut ipsorum
+latera AB et ab, BC et be, AC et ac concurrant in puncta η, p et m, in
+directum posita, tunc reetae quibus vertices A et α, Β et b, G et c jun-
+guntur, sese invicem in unico puncto intersecabunt.
+
+Ductis Bb et Co quarum punctum intersectionis sit D, demonstrandum
+nobis superest puncta A‚D eta in unzi esidemque rect& insistere. Revera
+
+ 
+
+S Bnp ....... ξ Cm ..... BA><Cp><mn=BC ><pm><A11....(1)
+.· ex bnp transversali am.... secto, hc >< pm><anzba >< mn >< cp....(2)
+tnanglsso ἰ Bbp ...... Cc sequitur x cp >< bD><BCsz >< hchD....(3)
+
+Ducendo inter se (ι), (2) et (ὃ) , prodibit
+DA><an><hD=BD><An><ha.
+scilicet relatio inter segmenta trigoni Bab, transversali ADa secti: ergo
+(Theor. I.) ADa est linea recta, sive recta Aa transit per punctum D.
+

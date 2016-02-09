@@ -1,0 +1,40 @@
+PARS PRIMA.
+
+LINEARUM TRANSVERSALIUM THEORIA.
+
+Celeberrimus carnot, cui pro maxima parte, debetur istius Theoriae
+explanatio, lineam transversalem sic definit: )) linea, aut recta, aut
+5> curva, quae quocumque modo intersecat systema aliarum linearum, sive
+)) rectarum, sive curvarum, vel etiam systema planorum aut superfi-
+>› cierum curvarum.'’
+
+Theoria ista, suis principiis simplicissima, applicationibus autem fe-
+cundissima, nihil aliud est, ut proprie dicam, quam coordinatarum
+theoria ad simpliciorem expressionem redacta, in eo quod super unam
+eamdemque rectam extendantur coordinatae.
+
+Revera, sint (fig. 1.) AR et RM coordinatae puncti M cujuscumque
+Iineae relatae ad duos axes qui angulum quemcumque β formant: si
+per istud punctum M ducatur transversalis PQM, ad angulum datum a,
+tunc ex triangulis QMS et PMR, erit:
+
+Qs :AR = QM Q ΒΜ = PM
+
+sin β siu β
+
+ 
+
+sic designando per x et y coordinatas AR et ΒΜ et per ,τ’ et y' partes
+QM et PM transversalis inter axes et punctum M comprehensas, oriuntur
+
+x= ω’ Βωδξξὲα), y=y' ΞΞΞΞ.
+
+Si in aequatione lineae in qu& punctum M ponitur, loco x et y valores istos
+ponamus, aequatio ista gradum non mutabit, datumque erit quodque
+punctum, partibus transversalis inter punctum istud et duos axes pri-
+mitivos-comprehensim quod systema simplicius videtur.
+
+ 
+
+ 
+

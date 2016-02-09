@@ -1,0 +1,50 @@
+( 12 )
+
+Si multiplicentur inter se istae aequati011e5‚ ita ut habeatur productum
+sinP >< sinS
+sinQ >< sinO'
+AO><AQ ,- AO><BQ - AQ><DO - BQ><DO — sinP><sinS
+cp χω - cp><sss - cs ><DP - BS ><Df³ - smfflffi)
+
+Sed Ass=AQ÷BQ‚ AD=DO—AO‚ BC=Bs-Cs et CD=CP÷PD
+
+erit ergo
+
+prodibit
+
+ 
+
+(AQ-4-BQ) >< (Do-Ao) — Ao >< AQ
+(ns-cs) >< (CP÷PD) “ ω) >< cs·
+Multiplicationibus effectis, prodit
+AQ><D0÷BQ><DO—AQ><Ao—BQ><AO — ΑΟ >< AQ
+BS >< CP-—CS ><CP †BS >< DP-GS ><DP — CP >< CS'
+Multiplicando utrumque membrum per factum ex denominatoribus⁷
+
+ 
+
+ 
+
+et reducendo, obtinetur
+AQ><DO><CP><CS—BQ><AO><CP><CS
+= AO><AQ><BS><CP—AO><AQ><CS><DP.
+Atqui ex relationibus (6), consequitur
+AO><AQ><CP><BS = AO><BQ><CP><CS
+AO><AQ><CS><DP= AQ><DO><CP><CS
+AO><AQ><BS><DP Ξ BQ><DO><CP><CS
+ergo 2AQ ><DO ><CP >< CS = 2AO><AQ><BS><CP.
+vel
+DO >< CS = AO >< BS, unde DO : AO = BS: CS.
+Aliunde ex figur& deducuntur Do :AO = DP : CP et BQ : AQ = BS : CS3
+ergo, ut jam vidimus, recta OS per diagonalium media transit.
+
+THEOREMA VII.
+
+In omni quadrilatero completo, tria diagonalium media in directum.
+sunt posita (fig. 17).
+Supponamus OR'' per diagonalium AC et BD media transire
+Demonst. Ex praecedenti Theoremate‚ erit
+
+AD:BC=sinS:sinO AD><Ass sinP >< sinS
+AB: CD=sinP:sinQ⁷ unde 'tm—xe& “ m
+

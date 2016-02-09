@@ -1,0 +1,41 @@
+(40)
+
+THEOREMA IV.
+
+In omni hexagono sectioni conicae circumscripto, diagonales quae ver-
+tices oppositos jungunt, per unum idemque punctum transeunt.
+
+Sit (fig. 40) ABCDEF hexagonum circumscriptum: jungantur puncta
+tangentia subsequentia, ut habeatur hexagonum inscriptum abcdef Ex
+adnotatione praecedenti, vertices hexagoni inscripti, sunt poli laterum
+hexagoni circumscripti, cujus vertices sunt vicissim poli laterum hexa—
+goni inscripti. Vei-tices A et D sunt ergo poli laterum afet cd, adeoque
+diagonalis AD est recta polaris puncti R. Eodem modo facile perspicitur
+diagonalem CF esse rectam polarem puncti R', et diagonalem BE esse
+rectam polarem puncti R''. Atqui tria puncta R, R', R'' sunt in linea recta
+(Theor.I 2ae partis ). Ergo (Theor. II) ipsorum polares, per unicum
+punctum transeunt, quod punctum est polus rectae RR'R''.
+
+Sic T heorema Brianelzonianum a Theoremate Pascali immediate
+pendet. ¹
+
+Ex notionibus praecedentibus polorum et polarium in plano, facile de—
+ducemus proprietates polorum et polarium in spatio.
+
+Ponamus (fig. 39) circulum ATA'T', tangentes ST et ST' et rectam
+TT', circa rectam SA' rotare: circulus spheram, tangentes conum, recta
+autem TT' planum formabunt, (siqnidem TT' est perpendicularis ad axem
+1·otati0nis): in hoc motu rotatorio‚ puncta S et M suas non mutant posi-
+tiones, siquidem super axem rotationis insistunt, ST et ST' manent tan-
+gentes , adeoque conum istis formatum tangit sphaeram secundum planum
+TT', et denique planum motu rectae TT' formatum, continet omnes
+rectas polares ptuicti S.
+
+Reipsa‚ 1ο ex generatione sequitur omnia plana quae per SA' transeunt,
+secare planum TT' in recta quae erit recta polaris puncti S, respectu
+sectionis illius plani cum sphaera.
+
+2⁰ Ducatur per S aliud planum Sa'3 istius plani et plani per TT‘
+intersectio erit recta polaris puncti S, respectu circuli per aa'3 nam si
+per SA' ducatur planum perpendiculare ad planum Sa', istorum planorum
+

@@ -1,0 +1,43 @@
+( 8 )
+AEquationes (ι) et (a) a se invicem pendent.
+
+Quatuor rectae per punctum S ductae, nomen acceperunt fascis
+harmonici (Fctisceau har-mortique).
+
+DE QnAomLATERo Compmzro.
+
+Quatnor puncta A, B, C et D in uno eodemque plano posita, possunt
+ita esse disposita, ut unumquodque ex iis semper extra aream trianguli
+tribus aliis formati, vel nt unum tantum ex illis in aream trianguli
+tribus aliis formati, cadat. In primo casu, duo quadrilatera poterunt
+formari, scilicet unum ABCD (fig. 9), alterum autem ABCD (fig. 10)
+ex duobus triangulis ad verticem oppositis compositum. In secundo casu,
+unicum quadrilaterum unum angulum BCD introrsum gibbum exhibens,
+formari poterit (sig. 11 ): 12ae tres figurarum species vocantur quadrilatera
+simplicia, sed si in unoquoque ex istis producantur latera opposita ita
+ut sese invicem secent, figurae quae ex ista constructione nascuntur, erunt
+compositae ex hisce tribus quadrilateribus simplicibus. Vocantur istae
+figurae, Quadrilatem completa (Quaclrilatdres complets ).
+
+Sic quadrilaterum completum est figura ex conjonctione trium qua-
+drilaterum simplicium formata. ABECFD (fig. 9), verbi gratia, continet
+1ο quadrilaterum ABCD, 2⁰ quadrilaterum BEDF, duobus triangulis ad
+verticem oppositis constans, 3⁰ quadrilaterum AECF angulum introrsum
+liabens.
+
+Quodque quadrilaterornin simplicium (luas continet diagonaleS, sed
+facile videre est tres adesse in quadrilatero completo.
+
+T H E O R EM A Vssffl.
+
+In omni quadrilatero completo, quaeque trium diagonalium‚ in seg-
+menta proportionalia duabus alteris secatur.
+
+Demonst. Sint ABFCGDA quadrilaterum propositum, et l, m et n
+puncta in quibus sese invicem secant tres diagonales DB, GF et AC. (fig. 12).
+
+Triangulum ABC sectum, transversalibus DA, DB et DC ex eodem
+
+puncto D ortis, transeuntibusque per vertices A, B et C, dat
+Al><CG><BF=AF><Cl><BG. ........ (ι).
+

@@ -1,0 +1,44 @@
+(9)
+
+Idem triangulum, propter transversalem FG, dat,
+
+BG >< (31η >< ΑΡ = ΒΡ >< CG >< Am ....... (2)
+ducendo inter se aequationes (ι) et (2), prodibit
+Al><Cm=Cl><Am ...........
+vel Al 2 Gl = Am2Cm .......... (Α).
+Eodem modo probaretur,
+Gm ι Fm = Gn : Ρη .......... (Β)
+et Dl t ΒΖ = Dn : Βη .......... (C)
+
+Corollariam I. Quaecumque transversa nB'l'D' per n ducta, in
+segmenta proportionalia etiam dividitur, ita ut habeatur
+D'l' z B'l' = D'n : Βή.
+nam si fingatur An, quatuor rectae ex puncto A ortae, fascem harmo—
+nicum formabunt.
+Ex hoc sequitur rectas GB' et FD' sese invicem intersecare supra Am. Α
+
+corollarium Π. Si, in triangulo AFG, ex verti-ce A ducatur ad
+basim FG recta quaedam Am, deinde si ex punctis F et G concipiantur
+systemata rectarum (GR, FD), (GB', FD') . . . quae supra Am sese
+invicem secant, transversales DB, D'B', etc. productae, per punctum η
+lateris GF producti, transibunt. ’
+
+Supponamus DB et D'B' rectae FG in duobus punctis η et η’ occurrere:
+propter quadrilatera ABFCGDA et AB'FC'GD'A completa, erit,
+
+ex 1⁰ ....... Gm:mF = Gn : Ρη
+ex 2⁰ ....... Gm ε mF = Gn' : Fn'
+
+ergo Gn : Ρη = Gn' : Fn'. unde GFan = GF:Fn‘.
+Ac proinde Ρη = Fn'.
+
+Corollarizcm III. Si ex puncto in quocumque latere trianguli cujusdam,
+vel in ipsius productione sito, ducantur rectae quae cluo reliqua latera
+secant, diagonales omnium quadrilaterorum quae ex istis rectis et lateribus
+trianguli nascuntur, sese invicem secabunt in unzi eademque rectzi quae
+ex opposito vertice duceretur ad latus in quo punctum jacet, et quae
+istud latus harmonice divideret.
+
+Proprietas in ¹corollario secundo enunciata, generalior evadere potest.
+2
+

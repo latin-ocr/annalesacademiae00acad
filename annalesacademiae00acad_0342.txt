@@ -1,0 +1,39 @@
+(10) ’
+
+Nam si ex puncto η (fig. 16), ducatur quaecumque recta nG' rectae
+Am in m' occurrens, si deinde capiantur duo puncta F' et G' quae cum
+ιη’ et n sint harmonica, et si denique ex punctis F' et G' ducantur
+systemata rectarum F'D, G‘B, etc. . . . quae sese invicem supra Am secant,
+omnium rectarum BD, etc. . . . concursus erit punctum n.
+Triangulum FIG transversali nG' sectum, dat
+Fn >< GF' ><1G' = FG' >< Gn >< IF'.
+Triangulum AFI transversali G'B sectum, dat
+AB >< FG' >< Il' z AI' >< FB >< IG'.
+Triangulum AGI transversali F'D sectum, dat
+AI' >< IF' >< GD = AD >< GF' >< ΙΙ’.
+Ducendo inter se aequationes istas, orietur
+Fn><AB><GD = Gn><FB><AD.
+Ergo (leeor. I.) puncta D,B et n sunt in directum posita. Ex his
+
+aliae proprietates concludi possent.
+
+THEOREMA VI.
+
+In omni quadrilatero simplici, recta quae per diagonalium media tran-
+sit, latera in segmentis proportionalibus dividit. (fig. 13, 14 et 15.)
+
+Demonst. Triangulum AOQ dat:
+AO ι AQ = sinQ : sin O.
+Ex triangulis DOR' et DQR' in quibus BR' = R'D, et summa angu-
+lorum in R' duobus angulis rectis est aequaliS‚ deducitur,
+BQ2DO = sinOzsinQ.
+
+Ducendo inter se istas aequationes, erit
+
+AO><BQ=AQ><DO, vel A02D0=AQ2BQ ..... (ι)
+Ex consideratione triangulorum BQS, AQR et CRS deducitur etiam,
+BQ><CS=BS><AQ‚ vel AQ23Q=CS:BS..<....(2).
+
+Eodem m0d0‚ ex triangulis CPS, DPR' et BR'S con-sequitur
+CP><BS=CS><DP‚ vel CP:DP=CS:BS ....... (3)
+

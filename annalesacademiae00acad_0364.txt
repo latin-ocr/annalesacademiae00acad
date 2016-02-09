@@ -1,0 +1,41 @@
+( 32 )
+quadrilatero ABCD, AI parallela ad CD, CI parallela ad AD, et diameter
+
+per B, in unicum punctum Ι concurrunt. (Theor. X.)
+
+In quadrilatero Dcle, linea dl' parallela ad CD, Cl' parallela ad Dd vel
+ad DA et diameter per h, in unicum punctum I' concurrunt (idem Theor.):
+rectae ΒΙ et bl' sunt diametri, adeoque iuter se sunt parallelae. Erit erg0‚
+
+Cb: bB = C1'21'1= Dcl: (ΖΑ.
+
+In pentagono dABCccl, recta BI'' parallela ad cd, CI'' parallela ad dA et
+
+diagonalis Ae, in unicum concurr nt punctum I''. (Theor. VIII). Erit erge,
+Aa: Ba = Ac:1''c = Dc: Cc.
+unde concluditur proprie'as enuntiata.
+
+Eodem modo, e proprietatibus hexagoni inscripti et hexagoni circum-
+scripti, plures aliae proprietates quadrilateri parabolae tum inscripti, tum
+circumscripti, facile deducuntur.
+
+THEOREMA XII.
+
+In omni trigono abd (fig. 35) parabolae inscripto, puncta R‘' et R' in
+quibus diametri per vertices α et b ductae, occurrunt lateribus istis ver-
+ticibus oppositiS, sistunt in recta R¹'R' parallela tangenti ad tertium ver-
+ticem b ductae. ⁷
+
+Ponamus punctum c supra curvam ita moveri ut ad punctum b acce—
+dat, recta RR' in suis positionibus subsequentibus, erit semper parallela
+ad latus bc, quod etiam locum habebit quando punctum c in punctum b
+incidet, quo casu, latus hc· evadit tangens in puncto (bc). Ergo R'R''
+tangenti ad punctum (bc) est parallela.
+
+THEOREMA XIII.
+
+In omni trigono A'RC‘ (fig. 36) parabolae circumscript0‚ parallelae
+A'D et C‘F ad latera RC' et RA', per vertices oppositos A et C ductae ‚ et
+diameter B‘E per punctum B' contactus tertii lateris, sese in unico
+puncto I' secant.
+

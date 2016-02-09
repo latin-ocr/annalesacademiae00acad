@@ -1,0 +1,40 @@
+(47)
+
+infinito laterum constans: erge, ex jamjam dictis, duo circuli in eodem
+plano siti, duo habent centra similitudinis, unum directoe, alterum inversae,
+et circulorum centra simul ac centra similitudinis, in eadem recta jacent.
+
+Notandum in duabus circumferentiis ea sola puncta dici posse similiter
+sita, quae radiis vel diametris parallelis determinantur3 unde sequitur
+tangentes ad duas circumferentias, esse rectas liomologaS‚ siquidem radii
+ad puncta contactus unius ex tangentibus sunt paralleli3 adeoque tan—
+gentes exteriores in centrum similitudinis directae, tangentes autem in·-
+ternae‚ in centrum similitudinis inversae, concurrere debent.
+
+Ex ista proprietate facile determinantur centra similitudinis directae et
+inversae: nam tangentes ad duas circumferentias, concurrunt‘in centra
+similitudinis, quae centra etiam in directione centrorum circulorum ca—
+·dunt: ergo puncta in quibus linea centrorum tangentibus exteriori et
+interiori occurrit, erunt centra similitudinis duorum circulorum.
+
+Determinantur generaliter centra similitudinis duarum circumferentia—
+rum, ducendo duas diametros parallelas AB et A'B' (fig. 44), ex supra
+dictis, puncta A et A', Β et B' sunt similiter et directe sita3 puncta autem
+A et B', B et A' sunt,similiter et inverse sita: ergo rectae AA‘ et BB' sese
+intersecant, in centro D similitudinis directae, et rectae AB' et A'ss in
+centro I simihtudinis inversae3 annotando centro D et I in CC' esse posita:
+ex his, in omni positione duorum circulorum, facile determinantur centra
+similitudinis.
+
+Si duo circuli sese invicem tangunt, punctum contactus erit unum e
+centris similitudinis; nam linea centrorum circulorum et una e tangen-
+tibus ad utramque circumferentiam ‚ in istud punctum concurrunt.
+Punctum contactus erit cen-trum similitudinis directae, si circumferentiae
+interius sese tangunt3 siquidem tunc tangens unica istas circumferentias
+exterius tangat v. g.‚ (fig. 44) si circumferentiae C et C'' (litteris
+centrorum designantur circumferentiae) sese interius in puncto D tangant,
+punctum D erit centrum similitudinis directae, adeoque si diametri AB
+et A'B' sint parallelae, rectae AA' et BB' quae puncta similiter et directe
+sita, A et A', Β et B' jungunt, in punctum D concurrere debent, si autem
+circumferentiae C et C''' sese invicem exterius tangant in puncto I, tnnc:
+

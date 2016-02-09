@@ -1,0 +1,43 @@
+(45)
+
+puncto C nulla duci possit tangens ad curvam ABEF, tunc curva polaris
+reciproca erit ellipsis vel curva in spatio finito ac determinato descripta.
+
+DE POLIS VEL CENTRIS ET POLARIBUS SIMILITUDINIS.
+
+Cum centrorum et polarium similitudinis theoria, nihil aliud sit quam
+illa in praecedentibus exposita, et ad plures figuras similes applicata,
+quaedam de hac theoria hic addere, a quaestione non alienum esse puto.
+
+Sint duae rectae AB et A'B' (fig. 42) inter se parallelae3 duo erunt in
+ipsorum plano puncta, S et S', quorum ad istas rectas distantiae, ipsis
+rectis AB et A'B' erunt proportionales. Evidens est ista proprietas, si-
+quidem in trigonis similibus SAB et SA'B', vel S'AB et S'A'B', altitudines
+sunt rectae homologae‚ adeoque lateribus AB et A'B' proportionales (*).
+
+Sint duo polygona ABCD et A'B‘C'D' similia (fig. 42 et 43) in eodem
+plano sita: erit in ipsorum plano punctum unicum in quo concurrunt
+omnes rectae liomologae, id est rectae quae puncta similiter sita jungunt.
+
+Reipsa, polygonum A'B'C'D' considerari potest, ut projectio in plano
+tabulae, sectionis factae in pyramide cujus basis sit polygonum ABCD‚ et
+tunc evidens est rectas AA‘, BB‘, etc. quae sunt projectiones acierum vel
+aretarum (des arre‘tes) pyraniidiS‚ vel generalius omnes rectas quae duo
+puncta similiter sita jungunt, in unicum punctum S vel S' quod est pro-
+jectio verticis ejusdem pyramidis, concurrere. Ista puncta S vel S' (fig. 42
+et 43) dicuntur poli vel centra similitudinis duorum poiygonorzcm.
+
+Si latera homologa eodem modo in duobus polygonis sint disposita,
+tunc polygona sunt directe similia (fig. 42 ): si autem eadem latera eodem
+modo non sint disposita (fig. 43 )‚ tunc polygona sunt inverse similia.
+In primo casu, centrum S similitudinis, erit generaliter extra cluo poly-
+gona positum; in ultimo autem casu, erit istud punctum S' intra duo
+polygona positum: vocavit Monge punctum S (fig. 42) centrum similita—
+dc'nis externum, punctum autem S' fig. 43, centrum similitudinis
+internum.
+
+DNS Steiuer in diurnis germanicis Dj Crelle, puncto S nomen centri
+Ἢ
+
+(*) Vide in fine adnotationes.
+

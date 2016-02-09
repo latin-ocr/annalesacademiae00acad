@@ -1,0 +1,38 @@
+(20)
+
+mmmmmmwwvmsmmm m mxxv-mmmm m Μ
+
+PARS SECUNDA.
+
+DE QUIBUSDAM PROPRIETATIBUS POLYGONORUM LINEIS SECUNDI
+GRADUS TAM INSCRIPTORUM QUAM CIRCUMSCRIPTORUM.
+
+THEOREMA I.
+
+Cujuscumque hexagoni circulo inscripti, latera opposita in tribus punc—
+tis in directum positis, sibi invicem occurrunt (fig. 24.)
+
+Ab utraque parte producantur tria latera non contigua, ex. gr. ab, ccl
+et ef quibus formatur trigonum ABC: si tria alia latera etiam producan-
+tur, habebimus intersectiones R, R' et R'' de quibus in theoremate agitur.
+
+Ex proprietatibus secantium , concluditur
+
+Ce><Cf=Cc><Cd ........... (1)
+Bc >< Bcl = Ba >< Bb ........... (2)
+Aa >< Ab z Ae >< Af. .......... (3).
+
+Trigonum ABC transversalibus Ra, R'h el. Re'' sectum, dabit
+Af><CR><Ba=Aa><BR><Cfi ..... (4)
+ΑΡι’><(]ε><ΒόΞΑό><Βε><ΟΒ’ ..... (5)
+
+Ae >< Cd>< BR''= AR'' >< Bd>< Ce ...... (6).
+
+Si ducantur iuter se (4), (5) et (6), respectu habito aequationum (ι), (2)
+et (3), prodibit haec relatio
+CR >< AR' >< BR''.-= BR >< CR' >< AR''.
+inter segmenta trigoni ABG transversali RR'R'‘ determinata.
+
+Ergo (Theor. I.) puncta R‚R' et ΒΝ in eadem recta ponuntur.
+Si nuuc omne schema in perspectivam (en perspective) projiciatur, iu
+

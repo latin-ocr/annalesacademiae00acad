@@ -1,0 +1,36 @@
+( 52 )
+
+punctum contactns A istorum circulorum transire debet. Eodem modo
+determinantur puncta contactus A‘ et A'' circuli C, cum circulis C' et
+C''. Superest ut circuli tangentis AA'A'' assignatur centrum3 in hunc
+finem ducantur rectae CA et C'A' vel C''A''‚ punctum CI erit centrum
+circuli quaesiti: si ergo ex (31, Cum radio CIA„ describatur circulus, erit
+tangens ad tres circulos C, C' et C'', et tres isti circuli erunt circulo tan—-
+genti exteriores. ,
+
+Ponamus 2⁰ circulos C, C' et C‘' circulo tangenti interiores esse3 eadem
+constructione probaretur rectas Pp, Pp' et P])'' circulos C, C' et C'' secare
+in punctis B, B' et B'' in quibus circulus quaesitus, circulos datos tangere
+debet. Circnli istius centrum erit punctum intersectionis Cn rectarum
+BC, B‘C' et Bs'ffl.
+
+3⁰ Si duo circuli C et C' exteriores, tertius‘autem C'' interior circulo
+tangenti esse debeant3 tunc construantur polares similitudinis directae tt
+ΙΨ, siquidem circuli C et C' eodem modo tangi debeant3 deinde con-
+struantur polares similitudinis inversae Τ1Τ1 et τ1τ1 circulorum C et C‘',
+C et C', siquidem isti circuli diverso modo tangi debeant. Istae polares
+sese secant in punctis π- et π’, et, ex antea demonstratis, rectae Ρπ· et Pvr'
+secant circulos C et C' in punctis D et D' in quibus circulus quaesitus
+eos tangere debet3 ergo ducendo CD et C'D', punctum intersectionis CM
+erit centrum istius circuli3 adeoque si ex Cm cum radio CmD describatur
+circulus, erit dicto niodo tangens ad tres circulos C, C' et C'', id est
+circuli C et C' exteriores, C‘' autem interior isto circulo erunt. Nunc
+facile videre.est punctum C1v esse centrum circuli tangentis, cui C et (ζ’
+erunt interiores, C'' autem exterior erit.
+
+Istius egregia: Theoriae principia in praecedentibus exposita, facile ad
+spatium transferri possunt3 sed brevitatis cansa, eas applicationes invitus
+omittam.
+
+—Qseoe—
+

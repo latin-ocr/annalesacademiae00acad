@@ -1,0 +1,38 @@
+(55)
+
+Istius problematis solutio, ex proprietatibus quadrilateri sectioni couicae
+inscripti, etiam deduci potest3 nam sit f (fig. 26) punctum datum3 ca-
+piantur super sectionem couicam, tria alia puncta (ab) c et (cle), et
+delineatur recta RR' in qua concurrunt latera opposita: tangentes ad
+vertices oppositos, sese intersecant etiam supra rectam RR' in puncto R'1'
+(Theor. ΠΙ secundae part. ): deinde si loco puncti (cle), capiatur aliud
+punctum η v. g., recta RR'R''' suam positionem mutabit, etcum puncta
+f et c invariabilia manent, sequitur punctum R''' in nova recta etiam
+jacere: si ergo construatur illa nova positio rectae RR', illius punctum
+intersectionis cum prima RPJ, erit punctum tangentis ad verticem f,-
+ergo denique ducendo R''‘ f, dabitur tangens quaesita.
+
+PROBLEMA V.
+
+sectione conica et puncto in eodem plano datis, e puncto ad sectio-
+nem couicam tangentem ducere.
+
+Sit (fig. 26) R punctum e quo ducenda est tangens ad sectionem co—
+nicam efgh: per R ducantur duae secantes arbitrariae Rs (ab) et R (cle) c,
+deinde chordae (ab) c et f ( de) quae sese secant in puncto R', et diagonales
+cf et (ab) (de) quae sihi invicem occurrunt in puncto I: denique ducendo
+R'I, ista recta secabit curvam in punctis m et n, quae erunt puncta con-
+tactus quaesita: si ergo ducantur Rm et Rn, erunt istae rectae tangentes
+quaesitae (Theor. III secundae part. '). Istam solutionem ex theoria polorum
+et polarium repetere, non supervacuum eritm
+
+PROBLEMA VI..
+
+Datis tribus punctis, quartum harmonicum construere.
+
+Sint (fig. 12) G, m et F tria puncta data: per F, G et m ducantur
+GA, mA et FA, deinde ducantur etiam GC et FB quae sese secant in
+puncto C supra Am3 istae rectae occurrunt rectis. AF et AG in punctis Β
+et D: si denique ducatur BD quae in puncto n productionem FG secat,
+erit n quartum harmonicum quaesitum (Theor. V primae partis).
+

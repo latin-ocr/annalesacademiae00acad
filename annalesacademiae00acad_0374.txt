@@ -1,0 +1,40 @@
+( 42 )
+ipsorum intersectionem esse etiam perpendicularem ad ultimum planum,
+adeoque ad rectam S'C'' 2 ergo denique (Theor. Ι) ista intersectio est
+recta polaris puncti M, respectu circuli aa'‘. Idem diceretur de alio quo-
+cunque plano per M ducto.
+
+Ex hoc sequitur planum SS' continere omnes rectas polares puncti M,
+et proinde esse planum polare puncti M.
+
+Notandum plana SS' et TT' esse parallela, siquidem ad eamdem rec-
+tam SA' sint normalia.
+
+Si nunc sphaerae circumscribatur conum cujus vertex sit punctum S'
+in plano SS' positum, planum contactus Μ’, erit planum polare puncti S'
+(Theor. V), adeoque omnes polos puncti S', continere debet: atqui, ut
+supra vidimus, M est unum e polis puncti S'3 ergo planum tt', per M
+transire debet. Et cumidem valeret de aho quocunque puncto plani SS'?
+possumus concludere Theorema sequens.
+
+THEOREMA VI.
+
+Si puncta in numero quocunque, sint in eodem plano sita, eorum
+plana polaria per unicum punctum transibunt, quod erit polus plani
+omnia ista puncta continentis: vicissim hoc planum erit planum polare
+puncti in quo sese intersecant omnia plana polaria.
+
+Theorema istud est generale, etiamsi planum polare sphaeram secet3
+nam sit T'TP planum polare poli S, et per S ducatur planum quodcunque
+Sa' sphaeram secans secundum circulum acz'3 dico conum sphaeram tan—-
+gentem secundum circumferentiam (ω’, suum in plano T'TP verticem
+habere. Per axem SA' ducatur planum perpendiculare ad planum Sa',
+quod ultimum intersecabit secundum rectam Sa', circulum secundum
+diametrum (ια’, et denique planum 'T'T secuudum rectam T'TP. Vertex
+coni sphaeram tangentis secundum circonserentiam (ια’, determinatur
+concursu tangentium in punctis α et α’ plani SA'P. Atqui istae tangentes
+(Theor. ΙΙΙ) sese secant in puncto I supra TT'P, posito: ergo vertex
+coni sphaeram tangentis secundum circumferentiam ατί, reperietur in
+plano polari puncti S. Idem probaretur pro alio quocumque plano per S
+ducto: ergo Theorema supra enuntiatum est generale.
+

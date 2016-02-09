@@ -1,0 +1,41 @@
+(48)
+
+istud punctum erit centrum similitudinis inversae, siquidem circumfe—
+rentiae, ex utrinque parte contactus Ι, sunt positae, et consequenter, si
+diametri AB et A'ss' sint parallelae, rectae AB' et A'B quae puncta similiter
+et inverse sita A et B', B et A' jungunt, sibi in puncto I occurrere debent.
+
+THEOREMA VII.
+
+centra similitudinis directae trium circulorum in eodem plano sitorum,
+in directione rectilinea sistunt, et unumquodque ex illis cum duobus
+centris similitudinis inversae, in directum sunt posita.
+
+Sint (fig. 45) D et Ι, D' et 1‘, D'' et I'' centra similitudinis circulorum
+C' et C'', C‘' et C, C' et C, et contemplemur rectas I'I'' et D'D'': istae
+rectae sunt liomologae (Υ et C'', et ut tales transire debent vel per Ι, vel
+per D: atqui evidens est neutram intra circulos C' et C'' posse transire3
+ergo in punctum D concurrere debent (*). Inde sequitur centra simili-
+tudinis directae D, D' et D'' in directum jacere3 et unum quodcumque
+ex centris similitudinis directae, cum duobus centris similitudinis inversae,
+etiam in eadem recta reperiri: hae rectae vocantur axes similitudinis
+triam circulorum.
+
+Si circulus duos alios tangat, ex isto Theoremate sequitur rectam quae
+puncta contactus jungit, per unum e centris similitudinis duorum circu—
+lorum, transire3 adeoque ista recta erit axis similitudinis duorum cir—
+culorum.
+
+Si consideratur unum vel aliud e centris similitudinis duorum circu-
+lorum, uti polus duobus istis circulis communis, habebit iste polus rec-
+tam polarem in unoquoque circulo: duae istae rectae polares dicuntur
+polczres similitudinis directae, si ad centrum similitudinis directae per-
+tinent3 dicuntur autem polares similitudinis inversae, si ad centrum
+similitudinis inversoe referuntur. Evidens est istas polares similitudinis,
+μ esse rectas homologas in duobus circulis, adeoque circulos secare in seg-
+mentis similibus.
+
+„—-————„——-—-—.—-....-———-—-—————
+
+ς’) Theorema illud ex theoria projectionum deduxit Monge (geom. deserip.‚ pag. 55 ).
+

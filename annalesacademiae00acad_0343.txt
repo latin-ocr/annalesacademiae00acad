@@ -1,0 +1,60 @@
+( 11 )
+Ex proportionibus (ι), (2) et (5) concluditur
+AOtDO = CS:BS= CPzDP = AQzssQ. . . (*)
+Ex proportione BQ ε AQ = DP ι CP deducitur
+
+BQ -1- AQ AQ . AB AQ
+ΒΡ-ι-ρΡ ² 'Hs’ “¹ θεῖ eff Ξ cr·
+Sed triangula AQR et CPR praebent
+AQ ε CP = sinP ι sinQ.
+
+ergo AB : CD = sin P : sin Q. ............. (4)
+
+Erit etiam AD : BC = sin S : sin O. ............. (5)
+
+Sic concluditur latera opposita quadrilateri cujusvis, esse inter se in
+ratione inversa sinuum angulorum quos recta diagonales biseczms, cum
+
+ 
+
+unoquoque format.
+
+Vicissim 1ο ex proportionibus (ι), (2) et (5) consequitur rectam Os
+diagonales AC et BD bifariam secare.
+
+Reipsa ex triangulo ABG, propter transversalem OS⁷ consequitur
+
+AQ><BS><CR=AR><BQ><CS.
+Ex proportione (2) oritur
+AQ >< Bs·=- BQ >< CS
+
+ergo CR = AR.
+
+Ex triangulo ABD efidem transversali secto⁷ et ex prima aequatione
+deducitur etiam
+
+BR' = DR'.
+
+2⁰ Si recta OS per unius diagonalis medium transeat, et admittatur
+
+productum ex aequationibus (4) et (5), tunc recta OS per medium alte-
+
+rius diagonalis transibit.
+
+Sint ex supposito AR = CR et —g-g—Z—g} ς ΞΞΞ ΞΞΣΞ.
+AO: CP -τ sinP : sinO
+AQ1CS = sinS τ sinQ.
+DO : DP = sinP z sinO
+BQ z BS = sinS 2 sinQ.
+
+Μ
+
+ 
+
+Ex aequalitate AR = CR erit Ξ
+
+Ex figura erit ......... ζ
+
+(*) Demonstrabimus rectam OS esse locum centrorum omnium sectionum conicarum qua
+quadrilatero ABCD, inscriptae sunt. Vide, in fine, adnotationes.
+

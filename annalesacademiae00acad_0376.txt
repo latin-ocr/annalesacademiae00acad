@@ -1,0 +1,41 @@
+(44)
+
+in duobus punctis A et B; istis punctis A et B, respondent duae rectae
+polares, sive duae tangentes ad secundam curvam, quae tangentes, ex
+theoria modo allata polorum, per polum T rectae AB transire debent.
+Ergo duae tantum polares per punctum T transeunt, vel ex puncto T
+ad cui-vam duze tantum tangentes duci possunt, adeoque recta AB cur—
+ram illam in duobus punctis secabit3 ergo denique curva illa erit secundi
+gradus, vel generaliter sectio conica.
+
+Vicissim, si qnidam polus secundum sectionem conicam rA'B' progre—
+diatur, rectae polares omnibus positionibus istius poli respondentes, ad
+curvam ABEF erunt tangentes, nam sit polus β infinite polo B proxi-
+mus: isto polo β respondet alia recta polaris quae, ex dictis, rectam
+polarem Τι’ poli B, secat in quodam puncto τ supra curvam A‘TB' po-
+sito, quod punctum est polus rectae quae puncta B et β jungit: atqui
+ista puncta sunt infinite proxima, ergo jacent in tangente ad punctum B,
+adeoque recta polaris poli τ, erit tangens ad curvam ABEF. Duae curvae
+ABEF et A'TB' quae istis proprietatibus gaudent, dicuntur curvoe polares
+conjugatae vel reciprocoe, respectu curvae Tt't quae ipsis uti curva in-
+ter-media vel rectrix inservit.
+
+Ex his sequitur omnes tangentes ad unam ex curvis polaribus recipro-
+cis, omnes suos super aliam curvam polarem reciprocam, habere poIOS,
+et vicissim.
+
+Nunc ex centro C ducantur tangentes CE et CF ad primam curvam
+polarem reciprocam, cuin poli istarum tangentium sistant in curva A'TB',
+et cum transeant per centrum C, sequitur ipsarum polos in infinitum
+abire, adeoque curvam polarem reciprocam A'TB' in infinitum excurrere
+ex utraque parte respectu centri C, siquidem tangentes ex H usque ad F
+in una regione, tangentes autem ex H in E, in altera respectu centri C,
+cadant: ergO, in hoc casu, curva polaris reciproca est hyperbola.
+
+Si prima curva polaris reciproca per centrum C transit, vel, quod
+idem est, si ex puncto C una tantum tangens ad curvam ABEF duci potest,
+tunc secunda curva polaris reciproca, erit parabola, annotando unum
+tantum polum in infinitum rejici.
+
+Si denique centrum C intra curvam ABEF incidat, vel potius si ex
+

@@ -1,0 +1,43 @@
+(33)
+
+Ponamus in quadrilatera ABCR‚ punctum B secundum diametrum et
+ad curvam progredi3 puncta A et C suas positiones mutabunt3 sed rectae
+CF et AD erunt semper ad latera AR et CR parallelae, et sese interseca-
+bunt supra BE: ergo ista proprietam, per legem continuitatis, manebit
+eadem, quando punctum B cadet in B' supra curvam, quo casu A'B'C‘
+fit unica tangens ad B'3 ergo in trigono A'RC'‚ parallelae A'D et C‘F ad
+latera RC' et RA', sese secant supra diametrum per B'.
+
+Plures aliae proprietates trigono parabolae inscripto, vel circumscripto,
+competentes, eodem modo, e praecedentibus principiis deduci possunt.
+
+THEOREMA XIV.
+
+In oriani qua-drilatero ABCD (fig. 38) hyperbolae aequilaterae inscripto,
+puncta R et R' concursuum parallelarum asymptotis, per extremitates
+unius lateris ductarum ‚ cum lateribus priori adjacentibus, jacent in
+recta quarto lateri parallela-
+
+Sit ABCDEF hexagonum hyperbolae aequilaterae inscriptum, cujus latera
+opposita in R, R' et R'' concurrunt: ponamus puncta E et F versus puncta
+extrema curvae magis ac magis tendere: puncta R‚R'‚R'' continuo suas
+positiones mutabunt in directione rectilinea: proindeque adhue in direc-
+tum erunt posita, quando puncta F et E in infinitum erunt translata:
+atqui, in illo casu, punctum R'' ad infinitum, et recta RR' ad directionem
+
+parallelam lateri BC pervenit: unde sequitur latera AF et DE fieri
+asymptotis parallela.
+
+THEOREMA XV.
+
+In omni trigono hyperbolae aequilaterae inscripto, punctum concursus
+
+trium cathetorum e verticibus trigoni ad latera opposita demissarum,
+supra hyperbolam ponitur.
+
+Sit ABG trigonum hyperbolae aequilaterae inscriptum. Ducatur CD'
+perpendicularis ad latus AB, et per puncta D' et A ducantur parallelae
+
+D'r' et Ar ad asymptote53 ex Theoremate praecedenti, erit rr' parallela
+ad latus BC. 5
+

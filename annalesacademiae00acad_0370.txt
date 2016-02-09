@@ -1,0 +1,45 @@
+(ἢ)
+
+THEOREMA n.
+
+Omnes chordae contactuum angulorum circulo circumscriptorum, quo-
+rum vertices jacent in eadem recta, per polum istius rectae transeunt.
+
+Quod Theorema modo sequenti etiam enunciari potest.
+
+Omnes rectae polares punctorum in eadem recta positorum, per polum
+istius rectae transeunt.
+
+Sequitur polum cujuscumque rectae, esse punctum in quo sese inter-
+secant omnes chordae contactuum angulorum circulo circumscriptorum,
+quorum vertices super istam rectam sistunt.
+
+Ista proprietas adhuc locum habet, dum recta polaris circulum secat3
+nam sit TT' recta polaris puncti S; erit
+
+CS:CA = CA2CM.
+Nunc ex puncto S, ducatur alia quaevis secans Saa', deinde ex centro C
+ducantur CC' perpendicularis ad (ια’ et TT' secans in puncto I, trigona SCC'
+et ICM erunt similia, adeoque erit
+CI: CS = CM z CC'
+ducendo istam per relationem supra positam, prodibit.
+CI:CA= CA:CC'‚ vel CI:CB = CB:CC'.
+
+Ergo punctum I est polus conjugatus puncti C, adeoque perpendi-
+cularis (ια’ ad CC', est recta polaris poli I, et consequenter Ia et Ia' tan—
+gunt circulum in punctis a et a'.
+
+Idem probaretur pro ali-22 quacumque secante e puncto S demissa.
+Ergo denique, si ex diversis punctis rectae polaris TT' ducantur tangentes
+ad circulum, omnes chorda-3 contactuum, per polum S rectae polaris TT‘
+transibunt, et proinde Theorema Ilum est generale.
+
+Ex dictis sequitur 1⁰ rectam polarem habere unicum polum3 2⁰ inter-
+sectionem duarum polarium, esse polum rectae quae duos polos jungit3 et.
+reipsa, vidimus rectam SS' esse rectam polarem puncti M intersectionis
+duarum polarium TT et η’, quarum poli sunt S et S'.
+
+Unde deducitur commodissima methodus rectam polarem‚ polo dato,
+construere et vicissim: 1⁰ si polus sit datus, vel extra, vel intra circulum
+cadet3 si sit extra, ex isto polo ducantur tangentes ad circulum et chorda
+

@@ -1,0 +1,55 @@
+< 37 )
+C''rn C'a
+C'a = C—'S3
+
+Idem probaretur pro alia quecumque secante. Ergo, etc.
+
+Ex heic proprietate, chorda TT' vocata est polaris interior puncti
+superioris S. (La polaire inte'rieure du point S.)
+
+Vicissim, si punctum M sit datum supra aream circuli, tunc per M
+ducatur diameter A'A, deinde etiam per M, recta TT' perpendicularis
+ad· AA', denique per T vel T', tangens quae diametrum secat in S, quod
+,punctum S erit, uti jam vidimus, polus conjugatas puncti M.
+
+Si per S et perpendiculariter ad CS, ducatur SS', ista recta erit locus om-
+nium polorum puncti M, respectu omnium chordarum quae per M transeunt.
+
+Reipsa‚ sit quaecumque chorda aMcffl quae illam rectam secat in S',
+et ponamus C'' esse medium aest: dico esse
+
+C''S' : C''cz = C''cz : C''M.
+
+Ducatur CC'' quae erit perpendicularis ad αα”. Ex trigonis similibus
+
+SMS' et CMC'' oritur
+SM: MC'' = MS': MC, inde SM >< MC = MS' >< MC''.
+Ex proprietate chordarum deducitur
+
+AM >< MA‘ = aM >< Man..
+
+vel
+
+ 
+
+vel denique C'S: C'a = C'a ι C'm.
+
+Ex relatione
+SC: CA = CA: CM concluditur SM >< MC = AM >< MA'z
+
+Er or -
+g MS'X MC'' = aM >< Ma'', vel MS' z Ma'' = aM : MC''.
+MS! ,ι- Mav S'a's Man* S'a'‘ — C''a'¹ Ma''—M·C'¹
+Inde W Ξ m = ffl³e⁸h³⁰W= -M-cu-
+vel denique- C''Sl : C'''a = C''a : C''M.
+
+Recta SS' vocatur polaris exterior puncti interioris M.
+
+Ex dictis possumus concludere polarem poli exterioris, esse chordam
+eontactuum duarum tangentium ex isto polo demissarum. Ducantur nunc
+tangentes S¹t' et S't: chorda tt' erit polaris poli S', id est, erit locus
+omnium polorum puncti S': erg-0 per punctum M transired'ebet, siqui-
+dem ex demonstratione praecedenti, M sit unum e polis puncti S': idem
+dici potest de quovis atio> puncto· reetae SS'& Possumus ergo concludere
+Theorema sequens.
+

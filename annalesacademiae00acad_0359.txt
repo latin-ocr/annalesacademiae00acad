@@ -1,0 +1,40 @@
+(27)
+
+ef et bc. Si denique locum oculi aut punctum visus et planum per-
+spectivum ita capiantur, ut repraesentatio circuli sit adhuc circulus, et
+rectae RR‘ perspectiva iu infinitum excurrat, tunc, si perspectiva: puncto-
+rum a, l), c, etc. , per a', ῥ’, c', etc. designantur ‚ erit in plano perspectivo
+latus (ιγ’ parallelum ad c'd', et latus effs' parallelum ad b'c'3 ergo, ex
+lemmate, a'b‘ et c'e' eruut inter se parallelae,- adeoque (Princip. 4) con-
+cursus R'¹ laterum ab et ed erit supra RR'. Ergo tria puncta R‚R' et RN
+in eadem recta sistunt.
+
+Ad Theorema IIIUffi. Sit (fig. 26) quadrilaterum (ab) c (de)finscrip—-
+tum, et ABCD quadrilaterum circumscriptum cujus latera circulum tan— ⁷
+gunt ad vertices quadrilateri inscripti.
+
+Producantur (ah)f et c (de) usque ad ipsorum concursum in R, et
+(ab) c et f( de) usque ad ipsorum concursum in R'. Si locus oculi et pla-
+num perspectivum ita capiantur, ut recta RR' infinite remota appareat,
+circuli autem perspectiva sit adhuc circulus, tunc quadrilateri inscripti
+perspectiva erit rectangulum (a'b') c' (d'e‘)f' (fig. 31), in quo diagonales
+sese in centro circuli invicem secant. Porro notum est tangentes ad extre-
+mitates ejusdem diametri, esse inter se parallelas; et consequenter quadri-
+laterum circumscriptum A'B'C'D' erit parallelogrammum, adeoque ipsius
+diagonales per centrum I transibunt. Ergo quatuor diagonales in plano
+objectorum, per unicum punctum I transeunt.
+
+‘Deinde A'B' et D'C' sunt parallelae, adeoque in plano objectorum con-
+currunt in punctum supra RR' positum: idem dicendum erit de lateribus
+B'C' et A'D': ergo latera opposita duorum quadrilaterorum in plano
+objectorum, concurrunt in quatuor puncta in directum posita.
+
+Insuper tangentes ad puncta m et n, lateribus (a'b')s' et c' (d'e') et
+diagonali A'C', sunt parallelae: ergo, in plano objectorum, omnes illae
+rectae per unicum punctum R transeunt. Eodem modo probaretur tan-
+gentes ad puncta p et q, in plano objectorum, concurrere in puuctum R';
+adeoque jam concludere liceret omnes chordas contactuum angulorum
+
+circulo circumscriptorum, quorum vertices supra RR' jacent, per unicum
+punctum Ι transire.
+

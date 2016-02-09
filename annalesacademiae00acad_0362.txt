@@ -1,0 +1,37 @@
+(30)
+
+THEOREMA VII.
+
+ln omni pentagono ahc-de parabolae inscrip10‚ inim-sectiones R et R''
+diametrorum quae per extremitates unius ejusdemque lateris ae transeunt,
+cum lateribus oppositis verticibus a et e, et punctum R' in quod concur-
+runt duo reliqua latera, in una ezidemque recta reperiuntur (fig. 33).
+
+Sit hexagonum abc-def cujus latera opposita concurrunt in puncta
+ν, R'‚1·¹' in directum collocata: ponamus punctum fa punctis a et e magis
+ac magis discedere3 proprietas hexagono competens semper locum habebit3
+ergo per legem continuitatis, ista proprietas manebit eadem, quando
+punctum fin infinitum abibit, quo casu latera (If et effiunt diametri
+parabolae αΕ et eF. Ergo denique ducendo ae, T heorema est demonstra-
+tum, sive puncta R‚R' et R'' in 'eadem recta ponuntur.
+
+THEOREMA VIII.
+
+In omni pentagono circumscripto parabolae, parallelae duobus lateribus
+unius ejusdemque anguli, per vertices istis lateribus oppositos ductae, et
+diagonalis quae duos alios vertices jungit, sibi iu unico puncto invicem
+occurrunt (fig. 34.)
+
+Sit ABCDEF hexagonum circumscriptum in quo diagonales sese in
+puncto I invicem secant. Ponamus punctum T in quo latus EF parabo-
+lani tangit, a punctis A,B,C‚D magis ac magis distare: uti supra con—
+cludendum erit proprietatem hexagono circumscripto competentem, adhuc
+valere, quando punctum T et proinde puncta E et F erunt etiarn in infini—
+tum remota3 adeoque AF et CF erunt inter se parallelae⁷ uti DE et BE: CF
+fiet Cf et BE fiet Be: ergo denique in pentagono ABCDF', parallelae Cf
+et Be ad latera AF' et F'D anguli F , sese supra diagonalem AD secant.
+
+THEOREMA IX.
+
+In omni quadrilatero parabolae inscripto, si per extremitates unius-
+

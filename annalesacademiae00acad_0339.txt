@@ -1,0 +1,50 @@
+< 7 )
+
+aCb' ς deinde per A et B parallelae quae primam ach' secabunt in
+punctis α et b'3 denique sacto Bh=Bb' vel Aa'=Aa‚ si delineatur ab
+vel a'h', punctum D in quo istae rectam AB secabunt, erit quartum har-
+monicum quaesitum.
+
+Reipsa, ex constructione habetur DB: DA: Bb : Aa et CB ε CA = Bh‘2Aa.
+et cum Bb ε..- Bh', sequitur DB: DA = CB: CA vel DB >< CA =DA >< CB.
+
+2⁰ Ponamus rectam AB harmonice ita dividendam esse ut segmenta
+AD et BD sint iuter se uti mm: per A et B ducantur duae parallelae,
+et sumantur Aa = Aa' = m et Bb = Bb' = n: his factis, rectae ab eta b'
+rectae datae occurrunt in duobus punctis quaesitis, et habetur eadem
+proportio quae supra.
+
+Evidens est, si m=n‚ punctum D esse in infinitum et AC: CB:
+si n> m, punctum D in productionem rectae BA cadet.
+
+C et D puncta conjugata dicuntur quia a se invicem mutuo pendent.
+
+THEOREMA IVum.
+
+Si recta AB in punctis C et D harmonice dividitur, et si ex quodam
+puncto S ducantur rectae ad puncta A, Β, C et D, transversa A'B' ad
+arbitrium ducta, harmonice secabitur. (fig. 8)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Demonst. Ex datis sequitur proportio AC: CB = AD :BD ..... (1)
+et ex triangulis ASC, CSB, BSD et ASD , deducitur,
+-AS Χ siu ASC — BS >< sin CSB AS >< siu ASD —BSX siu DSB
+AC-W2 ‘³¹3- ³1„ssOE ‚AD=W, ¹3¹³- sanans
+Quibus valoribus in proportione (1) scriptis, veniet
+sin ASC : sin CSB = sin ASD : sin BSD ......... (2)
+Habebimus etiam ⁷
+A‘C' = A'sfflssgssssc'. . . (a) C'B‘: E'jffssfc'ssss' . . . (b)
+Ainefflmst) Βὐ’;Ξ;Ξ-“Ψὲυ’-ξ)-’...(ᾱ).
+
+Dividendo productum ex (a) in (d), per productum ex (b) in (c), re-
+ducendoque ope aequationis (2), erit
+
+A‘C' >< B'D' = A'D' >< C'B', unde A'C' z C'B' = A'D' τ B'D'.
+

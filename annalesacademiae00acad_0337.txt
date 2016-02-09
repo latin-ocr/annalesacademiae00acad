@@ -1,0 +1,46 @@
+( 5 )
+. . Ac Aa><Bb ¹ Ac' Ac
+etiam ff = Ba be . ergo C—d- = —OE
+Ac' 4- Cc' Cc' AC - Ι
+Π = Cg- = E = ι, et consequenter Cc = Cc: ergo
+denique C et c' sunt unum idemque punctum.
+
+ 
+
+inde
+
+THEOREMA Ilum.
+
+Si ex quovis puncto, in plano cujusdam trigoni sito, ducatur ad quod-
+‘que latus linea transversalis quae per verticem oppositum transeat, sex
+segmenta sic in lateribus formata, ita erunt ut productum ex tribus quae
+nullam communem hahent extremitatem , sit aequale reliquorum producto.
+( fig. 3).
+
+Demonst. Sint Da, Db et Dc ex puncto D tres rectae ad vertices A,
+B et C ductae:
+
+Trianoulum
+{AaB transveraali Cc sectum , dabit exotheor. 1⁰ AD ><Ca><Bc=Ac><BC ><Da....(1)
+Aac ..... ,. Bb ............. Ah><BC><Da=AD><Ba><Cb...(2)
+ducendo inter se (1) et (2), prodibit Ah><sse><Ca=Ac><Ba><Ch
+
+Vicissim ‚ si habeatur relatio Ab >< Bc >< Ca = Ac >< Βα >< Cb, tunc
+rectae Aa, Bb, Cc per unicum punctum D transeunt: nam, si aliter esset,
+per B et D aliam rectam AC in h' occurrentem, ducere liceret: unde
+
+Ah'ch ><Ccz = A0><Ba><Cb¹.
+
+Ex hac et data relatione, deducitur ut supra Cb = Cb'3 ergo b et h'
+sunt unum idemque punctum.
+
+Eadem foret demonstratio, si punctum D extra aream trianguli esset
+
+situm (fig. 4).
+THEOREMA Illum.
+
+Si per tria puncta· a, b et c in praecedenti theoremate determinata ,
+ducantur reetae cb, ac et ba, quae productae occurrant lateribus BC, AC
+et AB trigoni ABG, productis, in punctis m, m' et m''‚ tria puncta
+m, m'‚ m''‚ erunt in directum posita. (fig. 5).
+

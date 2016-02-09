@@ -1,0 +1,41 @@
+(22)
+
+Aliunde evidens est planum per rectam RR'R'' et punctum O ductum ,
+secare planum quod vocant perspectivnm‚ (le plan cle perspective)
+secundum lineam rectam, ac proinde perspectivam ρρ’ρ” rectae R ww,
+esse etiam lineam rectam.
+
+Ex his, theorema sequens generale concludere licet.
+
+Cujuscmnque hexagoni sectioni conica> inscripti , latera opposita
+in tribus punctis in eadem recta positis, sese invicem secant.
+
+TH EOREMA 11.
+
+Sit (fig. 25) bcdef quodcumque pentagonum sectioni conicae inscrip-
+tum: si producantur latera fe et bc· quorum concursus est R', deinde dc
+et fl) quorum concursus est R, et si denique in puncto h, ducatur tan-
+gens quae lateri ecl in R'' occurrit, tria puncta RR'R'' erunt in eadem recta.
+
+Theorema istud ex praecedenti facile deducitur: nam si ponamus (fig. 24)
+latus ab magis magisque secundun] progressionem geometricam decrescere ,
+proprietas hexagono competens, locum habebit: ergo ‚ per legem conti-
+nuitatis, haec proprietas eadem manebit, quando istud latus fiet infinite
+parvum, vel, aliis verbis, quando latus ab fiet tangens ad punctum (ab)
+annotando in illo casu, α et b esse unum idemque punctum. Ergo, etc.
+
+Si ducantur diagonales cf et be, si deinde producantur de et bf usque
+ad concursum in r, si denique producatur dc quae tangenti ad punctum e
+occurrit in 7³3 tria puncta r, i, ν’, erunt in eadem recta.
+
+Reipsa ‚ trigonorum 'fc et r'cb latera sese invicem intersecant in punctis
+R, R‘ et R'' in eadem rectit positis: ergo (Theor. XII, 1ae part.) rectae quae
+ipsorum trigonorum vertices jungunt, unicam habebunt intersectionem3
+adeoque r, i et r' erunt in eadem directione posita.
+
+THEOREMA ΙΙΙ.
+
+In omni quadrilatero sectioni conicae inscripto, 1⁰ latera opposita et
+tangentes ad vertices oppositos istius quadrilateri, sese intersecant in qua—
+tuor punctis super eadem recta positis: 2⁰ diagonales quadrilateri inscripti et
+

@@ -1,0 +1,47 @@
+(16)
+
+Triangula (ΖΒ, I) et a'R'b' habent sua latera parallela et bR, = b'R',
+itaque erunt mqualia, sicque abza'b', et cuin aC=a'O', erit etiam
+
+bC= h‘O'.
+
+Insuper OlbxG = OffiO', ut anguli alternus internus, proindeque triangula
+hOC et h'OO' erunt aequalia.
+
+Ex his sequitur OC: OO' et [26ss = h'GO': ergo denique O'POC est
+recta cujus punctum O est inedium.
+
+Corollariam I. Ex praecedentibus deducitur O'G z OC = 2: ι, et
+supra invenimus O'P : PC -ε 1 z 2. Inde O'P = {PC = ὲ (ΡΟ -1- OO') =
+O' P
+
+{(2PO 4- PO') = ΡΟ -i- —2-‚ et denique O'P = 2PO et O'P2PO = 2: 1.
+Ergo O'C : OC = O'P :PO.
+Sicque quatuor puncta O'‚P‚O et C rationem harmonicam formant.
+Corollarium II. Quodque punctorum A‚F‚G et C, ut punctum con—
+
+cursus cathetorum e verticibus trigoni ad latera opposita demissarum,
+
+considerari potest. Sequitur rectam quae ex his duo jungit puncta, rectae
+quae per duo alia transit, perpendiculariter insistere.
+
+THEOREMA XI.
+
+Quatuor puncta A‚F‚C et G quatuor trigona formare possunt, scilicet,
+AFG, AGC, AFC et FCG. Si cuique circumscribatur circulus, 10 centra
+ipsorum circulorum figuram ex omni parte figurae AF CG aequalem for-
+niabunt3 2⁰ quatuor isti circuli erunt ejusdem radii3 3⁰ denique rectae
+omnes quibus junguntur puncta in duabus figuris similiter sita, per
+centrum O transibunt (fig. 22).
+
+Demonst. 10 Ex constructione, A'G' medio CF, A'F‘ medio CG et G'F'
+medio AC, ad angulos rectos insistunt: sit C' centrum circuli triangulo
+
+AFG circumscripti.
+EX figurss¹ est RR' = ν’] = ὲ FG, suntque istae rectoe RR' et rr' lateri FG
+
+· lae.
+PallgitleCorollario ΙΙ (Theor. X) etex jamjam dictis, AF et A'F sunt inter
+
+se parallelae, quod etiam dicendum est de rectis AG et A'G'.
+
